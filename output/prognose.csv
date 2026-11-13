@@ -1,0 +1,17 @@
+type;kvartal;metode;prognose;nedre;øvre
+I alt;2026K4;Holt-Winters (trend og sæson);6168;5436;6900
+I alt;2027K1;Holt-Winters (trend og sæson);6139;5407;6871
+I alt;2027K2;Holt-Winters (trend og sæson);6544;5812;7277
+I alt;2027K3;Holt-Winters (trend og sæson);6400;5668;7132
+Voldsforbrydelser;2026K4;Glidende gennemsnit (4 kvartaler);586;466;706
+Voldsforbrydelser;2027K1;Glidende gennemsnit (4 kvartaler);586;466;706
+Voldsforbrydelser;2027K2;Glidende gennemsnit (4 kvartaler);586;466;706
+Voldsforbrydelser;2027K3;Glidende gennemsnit (4 kvartaler);586;466;706
+Ejendomsforbrydelser;2026K4;Holt-Winters (trend og sæson);3121;2627;3615
+Ejendomsforbrydelser;2027K1;Holt-Winters (trend og sæson);2991;2498;3485
+Ejendomsforbrydelser;2027K2;Holt-Winters (trend og sæson);3241;2747;3735
+Ejendomsforbrydelser;2027K3;Holt-Winters (trend og sæson);3314;2820;3808
+Særlove;2026K4;Glidende gennemsnit (4 kvartaler);2125;1707;2542
+Særlove;2027K1;Glidende gennemsnit (4 kvartaler);2125;1707;2542
+Særlove;2027K2;Glidende gennemsnit (4 kvartaler);2125;1707;2542
+Særlove;2027K3;Glidende gennemsnit (4 kvartaler);2125;1707;2542

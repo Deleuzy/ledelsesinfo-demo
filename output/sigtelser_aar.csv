@@ -1,0 +1,2129 @@
+omraade;omraade_navn;overtraed;type_navn;tid;ANM;SIG;sigtelsesprocent
+000;Hele landet;1;Straffelov i alt;2007;445271.0;73078.0;0.1641
+000;Hele landet;1;Straffelov i alt;2008;476953.0;70219.0;0.1472
+000;Hele landet;1;Straffelov i alt;2009;491792.0;71810.0;0.146
+000;Hele landet;1;Straffelov i alt;2010;471088.0;78106.0;0.1658
+000;Hele landet;1;Straffelov i alt;2011;466765.0;84364.0;0.1807
+000;Hele landet;1;Straffelov i alt;2012;440772.0;79508.0;0.1804
+000;Hele landet;1;Straffelov i alt;2013;429293.0;79214.0;0.1845
+000;Hele landet;1;Straffelov i alt;2014;406163.0;83394.0;0.2053
+000;Hele landet;1;Straffelov i alt;2015;388543.0;83056.0;0.2138
+000;Hele landet;1;Straffelov i alt;2016;401407.0;91645.0;0.2283
+000;Hele landet;1;Straffelov i alt;2017;393437.0;88394.0;0.2247
+000;Hele landet;1;Straffelov i alt;2018;363542.0;87530.0;0.2408
+000;Hele landet;1;Straffelov i alt;2019;354859.0;89252.0;0.2515
+000;Hele landet;1;Straffelov i alt;2020;325483.0;100063.0;0.3074
+000;Hele landet;1;Straffelov i alt;2021;289497.0;81356.0;0.281
+000;Hele landet;1;Straffelov i alt;2022;338192.0;100586.0;0.2974
+000;Hele landet;1;Straffelov i alt;2023;348211.0;101584.0;0.2917
+000;Hele landet;1;Straffelov i alt;2024;339464.0;85959.0;0.2532
+000;Hele landet;1;Straffelov i alt;2025;327755.0;84741.0;0.2585
+000;Hele landet;1000;Uoplyst straffelov;2007;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2008;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2009;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2010;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2011;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2012;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2013;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2014;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2015;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2016;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2017;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2018;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2019;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2020;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2021;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2022;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2023;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2024;0.0;0.0;
+000;Hele landet;1000;Uoplyst straffelov;2025;0.0;0.0;
+000;Hele landet;11;Seksualforbrydelser;2007;2602.0;1818.0;0.6987
+000;Hele landet;11;Seksualforbrydelser;2008;2477.0;1692.0;0.6831
+000;Hele landet;11;Seksualforbrydelser;2009;2231.0;1568.0;0.7028
+000;Hele landet;11;Seksualforbrydelser;2010;2642.0;1938.0;0.7335
+000;Hele landet;11;Seksualforbrydelser;2011;2606.0;1831.0;0.7026
+000;Hele landet;11;Seksualforbrydelser;2012;2616.0;1933.0;0.7389
+000;Hele landet;11;Seksualforbrydelser;2013;2532.0;1824.0;0.7204
+000;Hele landet;11;Seksualforbrydelser;2014;2640.0;1921.0;0.7277
+000;Hele landet;11;Seksualforbrydelser;2015;2965.0;2026.0;0.6833
+000;Hele landet;11;Seksualforbrydelser;2016;4425.0;2653.0;0.5995
+000;Hele landet;11;Seksualforbrydelser;2017;6869.0;3930.0;0.5721
+000;Hele landet;11;Seksualforbrydelser;2018;7256.0;5061.0;0.6975
+000;Hele landet;11;Seksualforbrydelser;2019;6554.0;3529.0;0.5384
+000;Hele landet;11;Seksualforbrydelser;2020;7294.0;4280.0;0.5868
+000;Hele landet;11;Seksualforbrydelser;2021;8485.0;4737.0;0.5583
+000;Hele landet;11;Seksualforbrydelser;2022;9683.0;5040.0;0.5205
+000;Hele landet;11;Seksualforbrydelser;2023;9756.0;5807.0;0.5952
+000;Hele landet;11;Seksualforbrydelser;2024;8317.0;4514.0;0.5427
+000;Hele landet;11;Seksualforbrydelser;2025;9490.0;4518.0;0.4761
+000;Hele landet;12;Voldsforbrydelser;2007;19419.0;15295.0;0.7876
+000;Hele landet;12;Voldsforbrydelser;2008;18486.0;13843.0;0.7488
+000;Hele landet;12;Voldsforbrydelser;2009;17968.0;13405.0;0.746
+000;Hele landet;12;Voldsforbrydelser;2010;18131.0;13790.0;0.7606
+000;Hele landet;12;Voldsforbrydelser;2011;17834.0;13836.0;0.7758
+000;Hele landet;12;Voldsforbrydelser;2012;16876.0;13320.0;0.7893
+000;Hele landet;12;Voldsforbrydelser;2013;16710.0;12664.0;0.7579
+000;Hele landet;12;Voldsforbrydelser;2014;17086.0;12821.0;0.7504
+000;Hele landet;12;Voldsforbrydelser;2015;17860.0;12435.0;0.6962
+000;Hele landet;12;Voldsforbrydelser;2016;22454.0;13903.0;0.6192
+000;Hele landet;12;Voldsforbrydelser;2017;27026.0;15737.0;0.5823
+000;Hele landet;12;Voldsforbrydelser;2018;27856.0;16874.0;0.6058
+000;Hele landet;12;Voldsforbrydelser;2019;28878.0;17797.0;0.6163
+000;Hele landet;12;Voldsforbrydelser;2020;27109.0;18004.0;0.6641
+000;Hele landet;12;Voldsforbrydelser;2021;27063.0;16983.0;0.6275
+000;Hele landet;12;Voldsforbrydelser;2022;31374.0;20064.0;0.6395
+000;Hele landet;12;Voldsforbrydelser;2023;29449.0;17884.0;0.6073
+000;Hele landet;12;Voldsforbrydelser;2024;28809.0;16280.0;0.5651
+000;Hele landet;12;Voldsforbrydelser;2025;31245.0;17300.0;0.5537
+000;Hele landet;13;Ejendomsforbrydelser;2007;416478.0;50374.0;0.121
+000;Hele landet;13;Ejendomsforbrydelser;2008;449429.0;49374.0;0.1099
+000;Hele landet;13;Ejendomsforbrydelser;2009;465082.0;51359.0;0.1104
+000;Hele landet;13;Ejendomsforbrydelser;2010;442678.0;55822.0;0.1261
+000;Hele landet;13;Ejendomsforbrydelser;2011;437514.0;61043.0;0.1395
+000;Hele landet;13;Ejendomsforbrydelser;2012;413718.0;57724.0;0.1395
+000;Hele landet;13;Ejendomsforbrydelser;2013;401516.0;58034.0;0.1445
+000;Hele landet;13;Ejendomsforbrydelser;2014;378274.0;62218.0;0.1645
+000;Hele landet;13;Ejendomsforbrydelser;2015;359259.0;62354.0;0.1736
+000;Hele landet;13;Ejendomsforbrydelser;2016;365639.0;68532.0;0.1874
+000;Hele landet;13;Ejendomsforbrydelser;2017;350377.0;62393.0;0.1781
+000;Hele landet;13;Ejendomsforbrydelser;2018;318130.0;58528.0;0.184
+000;Hele landet;13;Ejendomsforbrydelser;2019;307826.0;60520.0;0.1966
+000;Hele landet;13;Ejendomsforbrydelser;2020;278011.0;69919.0;0.2515
+000;Hele landet;13;Ejendomsforbrydelser;2021;240259.0;51866.0;0.2159
+000;Hele landet;13;Ejendomsforbrydelser;2022;276146.0;61188.0;0.2216
+000;Hele landet;13;Ejendomsforbrydelser;2023;290806.0;68147.0;0.2343
+000;Hele landet;13;Ejendomsforbrydelser;2024;287040.0;57421.0;0.2
+000;Hele landet;13;Ejendomsforbrydelser;2025;271320.0;54804.0;0.202
+000;Hele landet;14;Andre straffelovsforbrydelser;2007;6772.0;5591.0;0.8256
+000;Hele landet;14;Andre straffelovsforbrydelser;2008;6561.0;5310.0;0.8093
+000;Hele landet;14;Andre straffelovsforbrydelser;2009;6511.0;5478.0;0.8413
+000;Hele landet;14;Andre straffelovsforbrydelser;2010;7637.0;6556.0;0.8585
+000;Hele landet;14;Andre straffelovsforbrydelser;2011;8811.0;7654.0;0.8687
+000;Hele landet;14;Andre straffelovsforbrydelser;2012;7562.0;6531.0;0.8637
+000;Hele landet;14;Andre straffelovsforbrydelser;2013;8535.0;6692.0;0.7841
+000;Hele landet;14;Andre straffelovsforbrydelser;2014;8163.0;6434.0;0.7882
+000;Hele landet;14;Andre straffelovsforbrydelser;2015;8459.0;6241.0;0.7378
+000;Hele landet;14;Andre straffelovsforbrydelser;2016;8889.0;6557.0;0.7377
+000;Hele landet;14;Andre straffelovsforbrydelser;2017;9165.0;6334.0;0.6911
+000;Hele landet;14;Andre straffelovsforbrydelser;2018;10300.0;7067.0;0.6861
+000;Hele landet;14;Andre straffelovsforbrydelser;2019;11601.0;7406.0;0.6384
+000;Hele landet;14;Andre straffelovsforbrydelser;2020;13069.0;7860.0;0.6014
+000;Hele landet;14;Andre straffelovsforbrydelser;2021;13690.0;7770.0;0.5676
+000;Hele landet;14;Andre straffelovsforbrydelser;2022;20989.0;14294.0;0.681
+000;Hele landet;14;Andre straffelovsforbrydelser;2023;18200.0;9746.0;0.5355
+000;Hele landet;14;Andre straffelovsforbrydelser;2024;15298.0;7744.0;0.5062
+000;Hele landet;14;Andre straffelovsforbrydelser;2025;15700.0;8119.0;0.5171
+000;Hele landet;3;Særlove;2007;69046.0;34049.0;0.4931
+000;Hele landet;3;Særlove;2008;71216.0;35185.0;0.4941
+000;Hele landet;3;Særlove;2009;70614.0;34296.0;0.4857
+000;Hele landet;3;Særlove;2010;74679.0;37433.0;0.5013
+000;Hele landet;3;Særlove;2011;91296.0;53454.0;0.5855
+000;Hele landet;3;Særlove;2012;91195.0;57366.0;0.629
+000;Hele landet;3;Særlove;2013;106566.0;59515.0;0.5585
+000;Hele landet;3;Særlove;2014;112800.0;65053.0;0.5767
+000;Hele landet;3;Særlove;2015;113338.0;62461.0;0.5511
+000;Hele landet;3;Særlove;2016;115169.0;61911.0;0.5376
+000;Hele landet;3;Særlove;2017;126833.0;54743.0;0.4316
+000;Hele landet;3;Særlove;2018;144282.0;70628.0;0.4895
+000;Hele landet;3;Særlove;2019;143990.0;83353.0;0.5789
+000;Hele landet;3;Særlove;2020;118945.0;75271.0;0.6328
+000;Hele landet;3;Særlove;2021;123684.0;74221.0;0.6001
+000;Hele landet;3;Særlove;2022;135114.0;81528.0;0.6034
+000;Hele landet;3;Særlove;2023;129406.0;83006.0;0.6414
+000;Hele landet;3;Særlove;2024;127774.0;76739.0;0.6006
+000;Hele landet;3;Særlove;2025;120985.0;70657.0;0.584
+000;Hele landet;TOT;I alt;2007;514317.0;107127.0;0.2083
+000;Hele landet;TOT;I alt;2008;548169.0;105404.0;0.1923
+000;Hele landet;TOT;I alt;2009;562406.0;106106.0;0.1887
+000;Hele landet;TOT;I alt;2010;545767.0;115539.0;0.2117
+000;Hele landet;TOT;I alt;2011;558061.0;137818.0;0.247
+000;Hele landet;TOT;I alt;2012;531967.0;136874.0;0.2573
+000;Hele landet;TOT;I alt;2013;535859.0;138729.0;0.2589
+000;Hele landet;TOT;I alt;2014;518963.0;148447.0;0.286
+000;Hele landet;TOT;I alt;2015;501881.0;145517.0;0.2899
+000;Hele landet;TOT;I alt;2016;516576.0;153556.0;0.2973
+000;Hele landet;TOT;I alt;2017;520270.0;143137.0;0.2751
+000;Hele landet;TOT;I alt;2018;507824.0;158158.0;0.3114
+000;Hele landet;TOT;I alt;2019;498849.0;172605.0;0.346
+000;Hele landet;TOT;I alt;2020;444428.0;175334.0;0.3945
+000;Hele landet;TOT;I alt;2021;413181.0;155577.0;0.3765
+000;Hele landet;TOT;I alt;2022;473306.0;182114.0;0.3848
+000;Hele landet;TOT;I alt;2023;477617.0;184590.0;0.3865
+000;Hele landet;TOT;I alt;2024;467238.0;162698.0;0.3482
+000;Hele landet;TOT;I alt;2025;448740.0;155398.0;0.3463
+081;Region Nordjylland;1;Straffelov i alt;2007;38244.0;6743.0;0.1763
+081;Region Nordjylland;1;Straffelov i alt;2008;40503.0;6302.0;0.1556
+081;Region Nordjylland;1;Straffelov i alt;2009;40633.0;6781.0;0.1669
+081;Region Nordjylland;1;Straffelov i alt;2010;37490.0;6498.0;0.1733
+081;Region Nordjylland;1;Straffelov i alt;2011;39655.0;7323.0;0.1847
+081;Region Nordjylland;1;Straffelov i alt;2012;34646.0;6714.0;0.1938
+081;Region Nordjylland;1;Straffelov i alt;2013;33708.0;6809.0;0.202
+081;Region Nordjylland;1;Straffelov i alt;2014;29560.0;7286.0;0.2465
+081;Region Nordjylland;1;Straffelov i alt;2015;28342.0;7193.0;0.2538
+081;Region Nordjylland;1;Straffelov i alt;2016;27243.0;7670.0;0.2815
+081;Region Nordjylland;1;Straffelov i alt;2017;27387.0;7559.0;0.276
+081;Region Nordjylland;1;Straffelov i alt;2018;25346.0;7716.0;0.3044
+081;Region Nordjylland;1;Straffelov i alt;2019;22677.0;6612.0;0.2916
+081;Region Nordjylland;1;Straffelov i alt;2020;19439.0;6428.0;0.3307
+081;Region Nordjylland;1;Straffelov i alt;2021;18059.0;6344.0;0.3513
+081;Region Nordjylland;1;Straffelov i alt;2022;21099.0;7380.0;0.3498
+081;Region Nordjylland;1;Straffelov i alt;2023;22420.0;8168.0;0.3643
+081;Region Nordjylland;1;Straffelov i alt;2024;21433.0;7041.0;0.3285
+081;Region Nordjylland;1;Straffelov i alt;2025;20351.0;6363.0;0.3127
+081;Region Nordjylland;1000;Uoplyst straffelov;2007;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2008;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2009;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2010;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2011;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2012;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2013;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2014;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2015;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2016;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2017;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2018;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2019;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2020;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2021;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2022;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2023;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2024;0.0;0.0;
+081;Region Nordjylland;1000;Uoplyst straffelov;2025;0.0;0.0;
+081;Region Nordjylland;11;Seksualforbrydelser;2007;275.0;197.0;0.7164
+081;Region Nordjylland;11;Seksualforbrydelser;2008;247.0;163.0;0.6599
+081;Region Nordjylland;11;Seksualforbrydelser;2009;238.0;171.0;0.7185
+081;Region Nordjylland;11;Seksualforbrydelser;2010;264.0;217.0;0.822
+081;Region Nordjylland;11;Seksualforbrydelser;2011;251.0;191.0;0.761
+081;Region Nordjylland;11;Seksualforbrydelser;2012;264.0;202.0;0.7652
+081;Region Nordjylland;11;Seksualforbrydelser;2013;201.0;164.0;0.8159
+081;Region Nordjylland;11;Seksualforbrydelser;2014;278.0;218.0;0.7842
+081;Region Nordjylland;11;Seksualforbrydelser;2015;236.0;171.0;0.7246
+081;Region Nordjylland;11;Seksualforbrydelser;2016;338.0;199.0;0.5888
+081;Region Nordjylland;11;Seksualforbrydelser;2017;498.0;312.0;0.6265
+081;Region Nordjylland;11;Seksualforbrydelser;2018;712.0;556.0;0.7809
+081;Region Nordjylland;11;Seksualforbrydelser;2019;527.0;351.0;0.666
+081;Region Nordjylland;11;Seksualforbrydelser;2020;505.0;362.0;0.7168
+081;Region Nordjylland;11;Seksualforbrydelser;2021;492.0;323.0;0.6565
+081;Region Nordjylland;11;Seksualforbrydelser;2022;497.0;350.0;0.7042
+081;Region Nordjylland;11;Seksualforbrydelser;2023;599.0;417.0;0.6962
+081;Region Nordjylland;11;Seksualforbrydelser;2024;658.0;394.0;0.5988
+081;Region Nordjylland;11;Seksualforbrydelser;2025;647.0;409.0;0.6321
+081;Region Nordjylland;12;Voldsforbrydelser;2007;1726.0;1412.0;0.8181
+081;Region Nordjylland;12;Voldsforbrydelser;2008;1607.0;1253.0;0.7797
+081;Region Nordjylland;12;Voldsforbrydelser;2009;1603.0;1196.0;0.7461
+081;Region Nordjylland;12;Voldsforbrydelser;2010;1678.0;1255.0;0.7479
+081;Region Nordjylland;12;Voldsforbrydelser;2011;1688.0;1277.0;0.7565
+081;Region Nordjylland;12;Voldsforbrydelser;2012;1613.0;1273.0;0.7892
+081;Region Nordjylland;12;Voldsforbrydelser;2013;1502.0;1207.0;0.8036
+081;Region Nordjylland;12;Voldsforbrydelser;2014;1410.0;1118.0;0.7929
+081;Region Nordjylland;12;Voldsforbrydelser;2015;1527.0;1138.0;0.7453
+081;Region Nordjylland;12;Voldsforbrydelser;2016;1808.0;1198.0;0.6626
+081;Region Nordjylland;12;Voldsforbrydelser;2017;2239.0;1344.0;0.6003
+081;Region Nordjylland;12;Voldsforbrydelser;2018;2128.0;1351.0;0.6349
+081;Region Nordjylland;12;Voldsforbrydelser;2019;2137.0;1367.0;0.6397
+081;Region Nordjylland;12;Voldsforbrydelser;2020;2056.0;1364.0;0.6634
+081;Region Nordjylland;12;Voldsforbrydelser;2021;1857.0;1269.0;0.6834
+081;Region Nordjylland;12;Voldsforbrydelser;2022;2752.0;1952.0;0.7093
+081;Region Nordjylland;12;Voldsforbrydelser;2023;2183.0;1387.0;0.6354
+081;Region Nordjylland;12;Voldsforbrydelser;2024;2115.0;1279.0;0.6047
+081;Region Nordjylland;12;Voldsforbrydelser;2025;2417.0;1394.0;0.5767
+081;Region Nordjylland;13;Ejendomsforbrydelser;2007;35831.0;4791.0;0.1337
+081;Region Nordjylland;13;Ejendomsforbrydelser;2008;38206.0;4521.0;0.1183
+081;Region Nordjylland;13;Ejendomsforbrydelser;2009;38249.0;4991.0;0.1305
+081;Region Nordjylland;13;Ejendomsforbrydelser;2010;34982.0;4552.0;0.1301
+081;Region Nordjylland;13;Ejendomsforbrydelser;2011;37170.0;5383.0;0.1448
+081;Region Nordjylland;13;Ejendomsforbrydelser;2012;32293.0;4810.0;0.1489
+081;Region Nordjylland;13;Ejendomsforbrydelser;2013;31503.0;4995.0;0.1586
+081;Region Nordjylland;13;Ejendomsforbrydelser;2014;27438.0;5576.0;0.2032
+081;Region Nordjylland;13;Ejendomsforbrydelser;2015;26114.0;5498.0;0.2105
+081;Region Nordjylland;13;Ejendomsforbrydelser;2016;24620.0;5922.0;0.2405
+081;Region Nordjylland;13;Ejendomsforbrydelser;2017;24022.0;5490.0;0.2285
+081;Region Nordjylland;13;Ejendomsforbrydelser;2018;21778.0;5357.0;0.246
+081;Region Nordjylland;13;Ejendomsforbrydelser;2019;19277.0;4449.0;0.2308
+081;Region Nordjylland;13;Ejendomsforbrydelser;2020;16130.0;4257.0;0.2639
+081;Region Nordjylland;13;Ejendomsforbrydelser;2021;15054.0;4354.0;0.2892
+081;Region Nordjylland;13;Ejendomsforbrydelser;2022;17164.0;4650.0;0.2709
+081;Region Nordjylland;13;Ejendomsforbrydelser;2023;18987.0;5924.0;0.312
+081;Region Nordjylland;13;Ejendomsforbrydelser;2024;17946.0;4941.0;0.2753
+081;Region Nordjylland;13;Ejendomsforbrydelser;2025;16473.0;4098.0;0.2488
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2007;412.0;343.0;0.8325
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2008;443.0;365.0;0.8239
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2009;543.0;423.0;0.779
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2010;566.0;474.0;0.8375
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2011;546.0;472.0;0.8645
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2012;476.0;429.0;0.9013
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2013;502.0;443.0;0.8825
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2014;434.0;374.0;0.8618
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2015;465.0;386.0;0.8301
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2016;477.0;351.0;0.7358
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2017;628.0;413.0;0.6576
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2018;728.0;452.0;0.6209
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2019;736.0;445.0;0.6046
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2020;748.0;445.0;0.5949
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2021;656.0;398.0;0.6067
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2022;686.0;428.0;0.6239
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2023;651.0;440.0;0.6759
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2024;714.0;427.0;0.598
+081;Region Nordjylland;14;Andre straffelovsforbrydelser;2025;814.0;462.0;0.5676
+081;Region Nordjylland;3;Særlove;2007;5776.0;2726.0;0.472
+081;Region Nordjylland;3;Særlove;2008;5646.0;2651.0;0.4695
+081;Region Nordjylland;3;Særlove;2009;6872.0;3265.0;0.4751
+081;Region Nordjylland;3;Særlove;2010;7231.0;3695.0;0.511
+081;Region Nordjylland;3;Særlove;2011;9527.0;6455.0;0.6775
+081;Region Nordjylland;3;Særlove;2012;9198.0;6577.0;0.715
+081;Region Nordjylland;3;Særlove;2013;10472.0;7124.0;0.6803
+081;Region Nordjylland;3;Særlove;2014;10369.0;7192.0;0.6936
+081;Region Nordjylland;3;Særlove;2015;9496.0;6224.0;0.6554
+081;Region Nordjylland;3;Særlove;2016;9917.0;6583.0;0.6638
+081;Region Nordjylland;3;Særlove;2017;10605.0;5350.0;0.5045
+081;Region Nordjylland;3;Særlove;2018;11284.0;6441.0;0.5708
+081;Region Nordjylland;3;Særlove;2019;11183.0;6063.0;0.5422
+081;Region Nordjylland;3;Særlove;2020;8629.0;5222.0;0.6052
+081;Region Nordjylland;3;Særlove;2021;9353.0;5545.0;0.5929
+081;Region Nordjylland;3;Særlove;2022;10842.0;7152.0;0.6597
+081;Region Nordjylland;3;Særlove;2023;9985.0;6629.0;0.6639
+081;Region Nordjylland;3;Særlove;2024;11351.0;6959.0;0.6131
+081;Region Nordjylland;3;Særlove;2025;10352.0;6003.0;0.5799
+081;Region Nordjylland;TOT;I alt;2007;44020.0;9469.0;0.2151
+081;Region Nordjylland;TOT;I alt;2008;46149.0;8953.0;0.194
+081;Region Nordjylland;TOT;I alt;2009;47505.0;10046.0;0.2115
+081;Region Nordjylland;TOT;I alt;2010;44721.0;10193.0;0.2279
+081;Region Nordjylland;TOT;I alt;2011;49182.0;13778.0;0.2801
+081;Region Nordjylland;TOT;I alt;2012;43844.0;13291.0;0.3031
+081;Region Nordjylland;TOT;I alt;2013;44180.0;13933.0;0.3154
+081;Region Nordjylland;TOT;I alt;2014;39929.0;14478.0;0.3626
+081;Region Nordjylland;TOT;I alt;2015;37838.0;13417.0;0.3546
+081;Region Nordjylland;TOT;I alt;2016;37160.0;14253.0;0.3836
+081;Region Nordjylland;TOT;I alt;2017;37992.0;12909.0;0.3398
+081;Region Nordjylland;TOT;I alt;2018;36630.0;14157.0;0.3865
+081;Region Nordjylland;TOT;I alt;2019;33860.0;12675.0;0.3743
+081;Region Nordjylland;TOT;I alt;2020;28068.0;11650.0;0.4151
+081;Region Nordjylland;TOT;I alt;2021;27412.0;11889.0;0.4337
+081;Region Nordjylland;TOT;I alt;2022;31941.0;14532.0;0.455
+081;Region Nordjylland;TOT;I alt;2023;32405.0;14797.0;0.4566
+081;Region Nordjylland;TOT;I alt;2024;32784.0;14000.0;0.427
+081;Region Nordjylland;TOT;I alt;2025;30703.0;12366.0;0.4028
+773;Morsø;1;Straffelov i alt;2007;1216.0;186.0;0.153
+773;Morsø;1;Straffelov i alt;2008;1182.0;238.0;0.2014
+773;Morsø;1;Straffelov i alt;2009;1124.0;218.0;0.194
+773;Morsø;1;Straffelov i alt;2010;952.0;189.0;0.1985
+773;Morsø;1;Straffelov i alt;2011;976.0;207.0;0.2121
+773;Morsø;1;Straffelov i alt;2012;1035.0;180.0;0.1739
+773;Morsø;1;Straffelov i alt;2013;1015.0;198.0;0.1951
+773;Morsø;1;Straffelov i alt;2014;1028.0;389.0;0.3784
+773;Morsø;1;Straffelov i alt;2015;771.0;207.0;0.2685
+773;Morsø;1;Straffelov i alt;2016;872.0;179.0;0.2053
+773;Morsø;1;Straffelov i alt;2017;957.0;468.0;0.489
+773;Morsø;1;Straffelov i alt;2018;669.0;267.0;0.3991
+773;Morsø;1;Straffelov i alt;2019;730.0;272.0;0.3726
+773;Morsø;1;Straffelov i alt;2020;678.0;214.0;0.3156
+773;Morsø;1;Straffelov i alt;2021;497.0;203.0;0.4085
+773;Morsø;1;Straffelov i alt;2022;674.0;236.0;0.3501
+773;Morsø;1;Straffelov i alt;2023;459.0;169.0;0.3682
+773;Morsø;1;Straffelov i alt;2024;545.0;195.0;0.3578
+773;Morsø;1;Straffelov i alt;2025;504.0;165.0;0.3274
+773;Morsø;1000;Uoplyst straffelov;2007;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2008;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2009;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2010;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2011;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2012;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2013;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2014;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2015;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2016;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2017;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2018;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2019;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2020;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2021;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2022;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2023;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2024;0.0;0.0;
+773;Morsø;1000;Uoplyst straffelov;2025;0.0;0.0;
+773;Morsø;11;Seksualforbrydelser;2007;8.0;7.0;0.875
+773;Morsø;11;Seksualforbrydelser;2008;8.0;6.0;0.75
+773;Morsø;11;Seksualforbrydelser;2009;14.0;11.0;0.7857
+773;Morsø;11;Seksualforbrydelser;2010;7.0;6.0;0.8571
+773;Morsø;11;Seksualforbrydelser;2011;9.0;8.0;0.8889
+773;Morsø;11;Seksualforbrydelser;2012;9.0;7.0;0.7778
+773;Morsø;11;Seksualforbrydelser;2013;11.0;8.0;0.7273
+773;Morsø;11;Seksualforbrydelser;2014;10.0;8.0;0.8
+773;Morsø;11;Seksualforbrydelser;2015;16.0;14.0;0.875
+773;Morsø;11;Seksualforbrydelser;2016;14.0;8.0;0.5714
+773;Morsø;11;Seksualforbrydelser;2017;16.0;11.0;0.6875
+773;Morsø;11;Seksualforbrydelser;2018;11.0;7.0;0.6364
+773;Morsø;11;Seksualforbrydelser;2019;23.0;14.0;0.6087
+773;Morsø;11;Seksualforbrydelser;2020;16.0;13.0;0.8125
+773;Morsø;11;Seksualforbrydelser;2021;13.0;7.0;0.5385
+773;Morsø;11;Seksualforbrydelser;2022;32.0;27.0;0.8438
+773;Morsø;11;Seksualforbrydelser;2023;19.0;13.0;0.6842
+773;Morsø;11;Seksualforbrydelser;2024;25.0;18.0;0.72
+773;Morsø;11;Seksualforbrydelser;2025;11.0;8.0;0.7273
+773;Morsø;12;Voldsforbrydelser;2007;60.0;53.0;0.8833
+773;Morsø;12;Voldsforbrydelser;2008;61.0;55.0;0.9016
+773;Morsø;12;Voldsforbrydelser;2009;55.0;42.0;0.7636
+773;Morsø;12;Voldsforbrydelser;2010;50.0;47.0;0.94
+773;Morsø;12;Voldsforbrydelser;2011;49.0;45.0;0.9184
+773;Morsø;12;Voldsforbrydelser;2012;71.0;58.0;0.8169
+773;Morsø;12;Voldsforbrydelser;2013;54.0;52.0;0.963
+773;Morsø;12;Voldsforbrydelser;2014;56.0;47.0;0.8393
+773;Morsø;12;Voldsforbrydelser;2015;54.0;44.0;0.8148
+773;Morsø;12;Voldsforbrydelser;2016;66.0;51.0;0.7727
+773;Morsø;12;Voldsforbrydelser;2017;83.0;65.0;0.7831
+773;Morsø;12;Voldsforbrydelser;2018;48.0;36.0;0.75
+773;Morsø;12;Voldsforbrydelser;2019;99.0;65.0;0.6566
+773;Morsø;12;Voldsforbrydelser;2020;68.0;42.0;0.6176
+773;Morsø;12;Voldsforbrydelser;2021;62.0;49.0;0.7903
+773;Morsø;12;Voldsforbrydelser;2022;107.0;84.0;0.785
+773;Morsø;12;Voldsforbrydelser;2023;74.0;58.0;0.7838
+773;Morsø;12;Voldsforbrydelser;2024;86.0;66.0;0.7674
+773;Morsø;12;Voldsforbrydelser;2025;62.0;45.0;0.7258
+773;Morsø;13;Ejendomsforbrydelser;2007;1133.0;114.0;0.1006
+773;Morsø;13;Ejendomsforbrydelser;2008;1094.0;160.0;0.1463
+773;Morsø;13;Ejendomsforbrydelser;2009;1043.0;156.0;0.1496
+773;Morsø;13;Ejendomsforbrydelser;2010;870.0;112.0;0.1287
+773;Morsø;13;Ejendomsforbrydelser;2011;899.0;136.0;0.1513
+773;Morsø;13;Ejendomsforbrydelser;2012;941.0;102.0;0.1084
+773;Morsø;13;Ejendomsforbrydelser;2013;942.0;131.0;0.1391
+773;Morsø;13;Ejendomsforbrydelser;2014;951.0;325.0;0.3417
+773;Morsø;13;Ejendomsforbrydelser;2015;687.0;136.0;0.198
+773;Morsø;13;Ejendomsforbrydelser;2016;782.0;113.0;0.1445
+773;Morsø;13;Ejendomsforbrydelser;2017;841.0;376.0;0.4471
+773;Morsø;13;Ejendomsforbrydelser;2018;592.0;210.0;0.3547
+773;Morsø;13;Ejendomsforbrydelser;2019;597.0;188.0;0.3149
+773;Morsø;13;Ejendomsforbrydelser;2020;574.0;146.0;0.2544
+773;Morsø;13;Ejendomsforbrydelser;2021;399.0;132.0;0.3308
+773;Morsø;13;Ejendomsforbrydelser;2022;505.0;105.0;0.2079
+773;Morsø;13;Ejendomsforbrydelser;2023;347.0;83.0;0.2392
+773;Morsø;13;Ejendomsforbrydelser;2024;415.0;96.0;0.2313
+773;Morsø;13;Ejendomsforbrydelser;2025;416.0;97.0;0.2332
+773;Morsø;14;Andre straffelovsforbrydelser;2007;15.0;12.0;0.8
+773;Morsø;14;Andre straffelovsforbrydelser;2008;19.0;17.0;0.8947
+773;Morsø;14;Andre straffelovsforbrydelser;2009;12.0;9.0;0.75
+773;Morsø;14;Andre straffelovsforbrydelser;2010;25.0;24.0;0.96
+773;Morsø;14;Andre straffelovsforbrydelser;2011;19.0;18.0;0.9474
+773;Morsø;14;Andre straffelovsforbrydelser;2012;14.0;13.0;0.9286
+773;Morsø;14;Andre straffelovsforbrydelser;2013;8.0;7.0;0.875
+773;Morsø;14;Andre straffelovsforbrydelser;2014;11.0;9.0;0.8182
+773;Morsø;14;Andre straffelovsforbrydelser;2015;14.0;13.0;0.9286
+773;Morsø;14;Andre straffelovsforbrydelser;2016;10.0;7.0;0.7
+773;Morsø;14;Andre straffelovsforbrydelser;2017;17.0;16.0;0.9412
+773;Morsø;14;Andre straffelovsforbrydelser;2018;18.0;14.0;0.7778
+773;Morsø;14;Andre straffelovsforbrydelser;2019;11.0;5.0;0.4545
+773;Morsø;14;Andre straffelovsforbrydelser;2020;20.0;13.0;0.65
+773;Morsø;14;Andre straffelovsforbrydelser;2021;23.0;15.0;0.6522
+773;Morsø;14;Andre straffelovsforbrydelser;2022;30.0;20.0;0.6667
+773;Morsø;14;Andre straffelovsforbrydelser;2023;19.0;15.0;0.7895
+773;Morsø;14;Andre straffelovsforbrydelser;2024;19.0;15.0;0.7895
+773;Morsø;14;Andre straffelovsforbrydelser;2025;15.0;15.0;1.0
+773;Morsø;3;Særlove;2007;153.0;76.0;0.4967
+773;Morsø;3;Særlove;2008;222.0;118.0;0.5315
+773;Morsø;3;Særlove;2009;327.0;160.0;0.4893
+773;Morsø;3;Særlove;2010;307.0;114.0;0.3713
+773;Morsø;3;Særlove;2011;272.0;174.0;0.6397
+773;Morsø;3;Særlove;2012;173.0;99.0;0.5723
+773;Morsø;3;Særlove;2013;257.0;145.0;0.5642
+773;Morsø;3;Særlove;2014;239.0;151.0;0.6318
+773;Morsø;3;Særlove;2015;223.0;129.0;0.5785
+773;Morsø;3;Særlove;2016;211.0;128.0;0.6066
+773;Morsø;3;Særlove;2017;202.0;87.0;0.4307
+773;Morsø;3;Særlove;2018;307.0;203.0;0.6612
+773;Morsø;3;Særlove;2019;262.0;173.0;0.6603
+773;Morsø;3;Særlove;2020;190.0;116.0;0.6105
+773;Morsø;3;Særlove;2021;211.0;134.0;0.6351
+773;Morsø;3;Særlove;2022;196.0;124.0;0.6327
+773;Morsø;3;Særlove;2023;245.0;175.0;0.7143
+773;Morsø;3;Særlove;2024;251.0;163.0;0.6494
+773;Morsø;3;Særlove;2025;209.0;138.0;0.6603
+773;Morsø;TOT;I alt;2007;1369.0;262.0;0.1914
+773;Morsø;TOT;I alt;2008;1404.0;356.0;0.2536
+773;Morsø;TOT;I alt;2009;1451.0;378.0;0.2605
+773;Morsø;TOT;I alt;2010;1259.0;303.0;0.2407
+773;Morsø;TOT;I alt;2011;1248.0;381.0;0.3053
+773;Morsø;TOT;I alt;2012;1208.0;279.0;0.231
+773;Morsø;TOT;I alt;2013;1272.0;343.0;0.2697
+773;Morsø;TOT;I alt;2014;1267.0;540.0;0.4262
+773;Morsø;TOT;I alt;2015;994.0;336.0;0.338
+773;Morsø;TOT;I alt;2016;1083.0;307.0;0.2835
+773;Morsø;TOT;I alt;2017;1159.0;555.0;0.4789
+773;Morsø;TOT;I alt;2018;976.0;470.0;0.4816
+773;Morsø;TOT;I alt;2019;992.0;445.0;0.4486
+773;Morsø;TOT;I alt;2020;868.0;330.0;0.3802
+773;Morsø;TOT;I alt;2021;708.0;337.0;0.476
+773;Morsø;TOT;I alt;2022;870.0;360.0;0.4138
+773;Morsø;TOT;I alt;2023;704.0;344.0;0.4886
+773;Morsø;TOT;I alt;2024;796.0;358.0;0.4497
+773;Morsø;TOT;I alt;2025;713.0;303.0;0.425
+787;Thisted;1;Straffelov i alt;2007;2389.0;516.0;0.216
+787;Thisted;1;Straffelov i alt;2008;2422.0;473.0;0.1953
+787;Thisted;1;Straffelov i alt;2009;2319.0;552.0;0.238
+787;Thisted;1;Straffelov i alt;2010;1907.0;415.0;0.2176
+787;Thisted;1;Straffelov i alt;2011;2055.0;464.0;0.2258
+787;Thisted;1;Straffelov i alt;2012;2279.0;500.0;0.2194
+787;Thisted;1;Straffelov i alt;2013;1939.0;479.0;0.247
+787;Thisted;1;Straffelov i alt;2014;1577.0;395.0;0.2505
+787;Thisted;1;Straffelov i alt;2015;1473.0;366.0;0.2485
+787;Thisted;1;Straffelov i alt;2016;1911.0;611.0;0.3197
+787;Thisted;1;Straffelov i alt;2017;1468.0;452.0;0.3079
+787;Thisted;1;Straffelov i alt;2018;1736.0;631.0;0.3635
+787;Thisted;1;Straffelov i alt;2019;1355.0;595.0;0.4391
+787;Thisted;1;Straffelov i alt;2020;1090.0;396.0;0.3633
+787;Thisted;1;Straffelov i alt;2021;1057.0;350.0;0.3311
+787;Thisted;1;Straffelov i alt;2022;1392.0;675.0;0.4849
+787;Thisted;1;Straffelov i alt;2023;1085.0;421.0;0.388
+787;Thisted;1;Straffelov i alt;2024;1024.0;361.0;0.3525
+787;Thisted;1;Straffelov i alt;2025;1183.0;622.0;0.5258
+787;Thisted;1000;Uoplyst straffelov;2007;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2008;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2009;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2010;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2011;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2012;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2013;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2014;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2015;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2016;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2017;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2018;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2019;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2020;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2021;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2022;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2023;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2024;0.0;0.0;
+787;Thisted;1000;Uoplyst straffelov;2025;0.0;0.0;
+787;Thisted;11;Seksualforbrydelser;2007;18.0;17.0;0.9444
+787;Thisted;11;Seksualforbrydelser;2008;22.0;17.0;0.7727
+787;Thisted;11;Seksualforbrydelser;2009;11.0;8.0;0.7273
+787;Thisted;11;Seksualforbrydelser;2010;20.0;17.0;0.85
+787;Thisted;11;Seksualforbrydelser;2011;20.0;17.0;0.85
+787;Thisted;11;Seksualforbrydelser;2012;10.0;9.0;0.9
+787;Thisted;11;Seksualforbrydelser;2013;25.0;19.0;0.76
+787;Thisted;11;Seksualforbrydelser;2014;16.0;12.0;0.75
+787;Thisted;11;Seksualforbrydelser;2015;14.0;10.0;0.7143
+787;Thisted;11;Seksualforbrydelser;2016;19.0;8.0;0.4211
+787;Thisted;11;Seksualforbrydelser;2017;19.0;12.0;0.6316
+787;Thisted;11;Seksualforbrydelser;2018;27.0;20.0;0.7407
+787;Thisted;11;Seksualforbrydelser;2019;47.0;31.0;0.6596
+787;Thisted;11;Seksualforbrydelser;2020;25.0;20.0;0.8
+787;Thisted;11;Seksualforbrydelser;2021;33.0;20.0;0.6061
+787;Thisted;11;Seksualforbrydelser;2022;37.0;32.0;0.8649
+787;Thisted;11;Seksualforbrydelser;2023;50.0;35.0;0.7
+787;Thisted;11;Seksualforbrydelser;2024;42.0;28.0;0.6667
+787;Thisted;11;Seksualforbrydelser;2025;60.0;41.0;0.6833
+787;Thisted;12;Voldsforbrydelser;2007;136.0;111.0;0.8162
+787;Thisted;12;Voldsforbrydelser;2008;129.0;117.0;0.907
+787;Thisted;12;Voldsforbrydelser;2009;138.0;112.0;0.8116
+787;Thisted;12;Voldsforbrydelser;2010;87.0;68.0;0.7816
+787;Thisted;12;Voldsforbrydelser;2011;127.0;116.0;0.9134
+787;Thisted;12;Voldsforbrydelser;2012;126.0;112.0;0.8889
+787;Thisted;12;Voldsforbrydelser;2013;128.0;108.0;0.8438
+787;Thisted;12;Voldsforbrydelser;2014;105.0;93.0;0.8857
+787;Thisted;12;Voldsforbrydelser;2015;127.0;100.0;0.7874
+787;Thisted;12;Voldsforbrydelser;2016;168.0;121.0;0.7202
+787;Thisted;12;Voldsforbrydelser;2017;172.0;120.0;0.6977
+787;Thisted;12;Voldsforbrydelser;2018;127.0;101.0;0.7953
+787;Thisted;12;Voldsforbrydelser;2019;164.0;127.0;0.7744
+787;Thisted;12;Voldsforbrydelser;2020;127.0;92.0;0.7244
+787;Thisted;12;Voldsforbrydelser;2021;134.0;94.0;0.7015
+787;Thisted;12;Voldsforbrydelser;2022;162.0;124.0;0.7654
+787;Thisted;12;Voldsforbrydelser;2023;146.0;119.0;0.8151
+787;Thisted;12;Voldsforbrydelser;2024;109.0;80.0;0.7339
+787;Thisted;12;Voldsforbrydelser;2025;134.0;102.0;0.7612
+787;Thisted;13;Ejendomsforbrydelser;2007;2197.0;353.0;0.1607
+787;Thisted;13;Ejendomsforbrydelser;2008;2236.0;311.0;0.1391
+787;Thisted;13;Ejendomsforbrydelser;2009;2142.0;407.0;0.19
+787;Thisted;13;Ejendomsforbrydelser;2010;1776.0;307.0;0.1729
+787;Thisted;13;Ejendomsforbrydelser;2011;1868.0;297.0;0.159
+787;Thisted;13;Ejendomsforbrydelser;2012;2122.0;358.0;0.1687
+787;Thisted;13;Ejendomsforbrydelser;2013;1749.0;316.0;0.1807
+787;Thisted;13;Ejendomsforbrydelser;2014;1429.0;265.0;0.1854
+787;Thisted;13;Ejendomsforbrydelser;2015;1308.0;238.0;0.182
+787;Thisted;13;Ejendomsforbrydelser;2016;1694.0;455.0;0.2686
+787;Thisted;13;Ejendomsforbrydelser;2017;1254.0;300.0;0.2392
+787;Thisted;13;Ejendomsforbrydelser;2018;1545.0;479.0;0.31
+787;Thisted;13;Ejendomsforbrydelser;2019;1102.0;414.0;0.3757
+787;Thisted;13;Ejendomsforbrydelser;2020;902.0;260.0;0.2882
+787;Thisted;13;Ejendomsforbrydelser;2021;845.0;207.0;0.245
+787;Thisted;13;Ejendomsforbrydelser;2022;1142.0;483.0;0.4229
+787;Thisted;13;Ejendomsforbrydelser;2023;840.0;225.0;0.2679
+787;Thisted;13;Ejendomsforbrydelser;2024;838.0;229.0;0.2733
+787;Thisted;13;Ejendomsforbrydelser;2025;950.0;444.0;0.4674
+787;Thisted;14;Andre straffelovsforbrydelser;2007;38.0;35.0;0.9211
+787;Thisted;14;Andre straffelovsforbrydelser;2008;35.0;28.0;0.8
+787;Thisted;14;Andre straffelovsforbrydelser;2009;28.0;25.0;0.8929
+787;Thisted;14;Andre straffelovsforbrydelser;2010;24.0;23.0;0.9583
+787;Thisted;14;Andre straffelovsforbrydelser;2011;40.0;34.0;0.85
+787;Thisted;14;Andre straffelovsforbrydelser;2012;21.0;21.0;1.0
+787;Thisted;14;Andre straffelovsforbrydelser;2013;37.0;36.0;0.973
+787;Thisted;14;Andre straffelovsforbrydelser;2014;27.0;25.0;0.9259
+787;Thisted;14;Andre straffelovsforbrydelser;2015;24.0;18.0;0.75
+787;Thisted;14;Andre straffelovsforbrydelser;2016;30.0;27.0;0.9
+787;Thisted;14;Andre straffelovsforbrydelser;2017;23.0;20.0;0.8696
+787;Thisted;14;Andre straffelovsforbrydelser;2018;37.0;31.0;0.8378
+787;Thisted;14;Andre straffelovsforbrydelser;2019;42.0;23.0;0.5476
+787;Thisted;14;Andre straffelovsforbrydelser;2020;36.0;24.0;0.6667
+787;Thisted;14;Andre straffelovsforbrydelser;2021;45.0;29.0;0.6444
+787;Thisted;14;Andre straffelovsforbrydelser;2022;51.0;36.0;0.7059
+787;Thisted;14;Andre straffelovsforbrydelser;2023;49.0;42.0;0.8571
+787;Thisted;14;Andre straffelovsforbrydelser;2024;35.0;24.0;0.6857
+787;Thisted;14;Andre straffelovsforbrydelser;2025;39.0;35.0;0.8974
+787;Thisted;3;Særlove;2007;435.0;187.0;0.4299
+787;Thisted;3;Særlove;2008;556.0;277.0;0.4982
+787;Thisted;3;Særlove;2009;856.0;390.0;0.4556
+787;Thisted;3;Særlove;2010;600.0;314.0;0.5233
+787;Thisted;3;Særlove;2011;685.0;398.0;0.581
+787;Thisted;3;Særlove;2012;435.0;299.0;0.6874
+787;Thisted;3;Særlove;2013;586.0;378.0;0.6451
+787;Thisted;3;Særlove;2014;574.0;403.0;0.7021
+787;Thisted;3;Særlove;2015;568.0;382.0;0.6725
+787;Thisted;3;Særlove;2016;538.0;320.0;0.5948
+787;Thisted;3;Særlove;2017;530.0;253.0;0.4774
+787;Thisted;3;Særlove;2018;612.0;379.0;0.6193
+787;Thisted;3;Særlove;2019;661.0;444.0;0.6717
+787;Thisted;3;Særlove;2020;487.0;303.0;0.6222
+787;Thisted;3;Særlove;2021;669.0;417.0;0.6233
+787;Thisted;3;Særlove;2022;710.0;491.0;0.6915
+787;Thisted;3;Særlove;2023;625.0;462.0;0.7392
+787;Thisted;3;Særlove;2024;1056.0;834.0;0.7898
+787;Thisted;3;Særlove;2025;602.0;396.0;0.6578
+787;Thisted;TOT;I alt;2007;2824.0;703.0;0.2489
+787;Thisted;TOT;I alt;2008;2978.0;750.0;0.2518
+787;Thisted;TOT;I alt;2009;3175.0;942.0;0.2967
+787;Thisted;TOT;I alt;2010;2507.0;729.0;0.2908
+787;Thisted;TOT;I alt;2011;2740.0;862.0;0.3146
+787;Thisted;TOT;I alt;2012;2714.0;799.0;0.2944
+787;Thisted;TOT;I alt;2013;2525.0;857.0;0.3394
+787;Thisted;TOT;I alt;2014;2151.0;798.0;0.371
+787;Thisted;TOT;I alt;2015;2041.0;748.0;0.3665
+787;Thisted;TOT;I alt;2016;2449.0;931.0;0.3802
+787;Thisted;TOT;I alt;2017;1998.0;705.0;0.3529
+787;Thisted;TOT;I alt;2018;2348.0;1010.0;0.4302
+787;Thisted;TOT;I alt;2019;2016.0;1039.0;0.5154
+787;Thisted;TOT;I alt;2020;1577.0;699.0;0.4432
+787;Thisted;TOT;I alt;2021;1726.0;767.0;0.4444
+787;Thisted;TOT;I alt;2022;2102.0;1166.0;0.5547
+787;Thisted;TOT;I alt;2023;1710.0;883.0;0.5164
+787;Thisted;TOT;I alt;2024;2080.0;1195.0;0.5745
+787;Thisted;TOT;I alt;2025;1785.0;1018.0;0.5703
+810;Brønderslev;1;Straffelov i alt;2007;2150.0;368.0;0.1712
+810;Brønderslev;1;Straffelov i alt;2008;1921.0;301.0;0.1567
+810;Brønderslev;1;Straffelov i alt;2009;1780.0;274.0;0.1539
+810;Brønderslev;1;Straffelov i alt;2010;1924.0;324.0;0.1684
+810;Brønderslev;1;Straffelov i alt;2011;1973.0;408.0;0.2068
+810;Brønderslev;1;Straffelov i alt;2012;1601.0;335.0;0.2092
+810;Brønderslev;1;Straffelov i alt;2013;1639.0;393.0;0.2398
+810;Brønderslev;1;Straffelov i alt;2014;1516.0;458.0;0.3021
+810;Brønderslev;1;Straffelov i alt;2015;1208.0;299.0;0.2475
+810;Brønderslev;1;Straffelov i alt;2016;1259.0;333.0;0.2645
+810;Brønderslev;1;Straffelov i alt;2017;1339.0;283.0;0.2114
+810;Brønderslev;1;Straffelov i alt;2018;1321.0;412.0;0.3119
+810;Brønderslev;1;Straffelov i alt;2019;1098.0;276.0;0.2514
+810;Brønderslev;1;Straffelov i alt;2020;981.0;359.0;0.366
+810;Brønderslev;1;Straffelov i alt;2021;964.0;410.0;0.4253
+810;Brønderslev;1;Straffelov i alt;2022;1062.0;415.0;0.3908
+810;Brønderslev;1;Straffelov i alt;2023;1266.0;645.0;0.5095
+810;Brønderslev;1;Straffelov i alt;2024;996.0;360.0;0.3614
+810;Brønderslev;1;Straffelov i alt;2025;925.0;258.0;0.2789
+810;Brønderslev;1000;Uoplyst straffelov;2007;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2008;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2009;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2010;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2011;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2012;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2013;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2014;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2015;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2016;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2017;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2018;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2019;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2020;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2021;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2022;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2023;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2024;0.0;0.0;
+810;Brønderslev;1000;Uoplyst straffelov;2025;0.0;0.0;
+810;Brønderslev;11;Seksualforbrydelser;2007;11.0;8.0;0.7273
+810;Brønderslev;11;Seksualforbrydelser;2008;8.0;5.0;0.625
+810;Brønderslev;11;Seksualforbrydelser;2009;14.0;10.0;0.7143
+810;Brønderslev;11;Seksualforbrydelser;2010;13.0;10.0;0.7692
+810;Brønderslev;11;Seksualforbrydelser;2011;22.0;17.0;0.7727
+810;Brønderslev;11;Seksualforbrydelser;2012;19.0;17.0;0.8947
+810;Brønderslev;11;Seksualforbrydelser;2013;22.0;20.0;0.9091
+810;Brønderslev;11;Seksualforbrydelser;2014;9.0;8.0;0.8889
+810;Brønderslev;11;Seksualforbrydelser;2015;19.0;15.0;0.7895
+810;Brønderslev;11;Seksualforbrydelser;2016;39.0;30.0;0.7692
+810;Brønderslev;11;Seksualforbrydelser;2017;25.0;17.0;0.68
+810;Brønderslev;11;Seksualforbrydelser;2018;31.0;22.0;0.7097
+810;Brønderslev;11;Seksualforbrydelser;2019;18.0;11.0;0.6111
+810;Brønderslev;11;Seksualforbrydelser;2020;38.0;31.0;0.8158
+810;Brønderslev;11;Seksualforbrydelser;2021;26.0;16.0;0.6154
+810;Brønderslev;11;Seksualforbrydelser;2022;37.0;26.0;0.7027
+810;Brønderslev;11;Seksualforbrydelser;2023;34.0;26.0;0.7647
+810;Brønderslev;11;Seksualforbrydelser;2024;34.0;23.0;0.6765
+810;Brønderslev;11;Seksualforbrydelser;2025;41.0;32.0;0.7805
+810;Brønderslev;12;Voldsforbrydelser;2007;89.0;80.0;0.8989
+810;Brønderslev;12;Voldsforbrydelser;2008;65.0;55.0;0.8462
+810;Brønderslev;12;Voldsforbrydelser;2009;74.0;55.0;0.7432
+810;Brønderslev;12;Voldsforbrydelser;2010;96.0;74.0;0.7708
+810;Brønderslev;12;Voldsforbrydelser;2011;106.0;93.0;0.8774
+810;Brønderslev;12;Voldsforbrydelser;2012;94.0;74.0;0.7872
+810;Brønderslev;12;Voldsforbrydelser;2013;83.0;72.0;0.8675
+810;Brønderslev;12;Voldsforbrydelser;2014;77.0;66.0;0.8571
+810;Brønderslev;12;Voldsforbrydelser;2015;99.0;84.0;0.8485
+810;Brønderslev;12;Voldsforbrydelser;2016;91.0;60.0;0.6593
+810;Brønderslev;12;Voldsforbrydelser;2017;112.0;62.0;0.5536
+810;Brønderslev;12;Voldsforbrydelser;2018;112.0;62.0;0.5536
+810;Brønderslev;12;Voldsforbrydelser;2019;149.0;76.0;0.5101
+810;Brønderslev;12;Voldsforbrydelser;2020;144.0;98.0;0.6806
+810;Brønderslev;12;Voldsforbrydelser;2021;99.0;71.0;0.7172
+810;Brønderslev;12;Voldsforbrydelser;2022;155.0;84.0;0.5419
+810;Brønderslev;12;Voldsforbrydelser;2023;129.0;78.0;0.6047
+810;Brønderslev;12;Voldsforbrydelser;2024;141.0;78.0;0.5532
+810;Brønderslev;12;Voldsforbrydelser;2025;131.0;70.0;0.5344
+810;Brønderslev;13;Ejendomsforbrydelser;2007;2030.0;263.0;0.1296
+810;Brønderslev;13;Ejendomsforbrydelser;2008;1823.0;220.0;0.1207
+810;Brønderslev;13;Ejendomsforbrydelser;2009;1672.0;195.0;0.1166
+810;Brønderslev;13;Ejendomsforbrydelser;2010;1787.0;217.0;0.1214
+810;Brønderslev;13;Ejendomsforbrydelser;2011;1816.0;272.0;0.1498
+810;Brønderslev;13;Ejendomsforbrydelser;2012;1466.0;223.0;0.1521
+810;Brønderslev;13;Ejendomsforbrydelser;2013;1519.0;286.0;0.1883
+810;Brønderslev;13;Ejendomsforbrydelser;2014;1410.0;366.0;0.2596
+810;Brønderslev;13;Ejendomsforbrydelser;2015;1072.0;184.0;0.1716
+810;Brønderslev;13;Ejendomsforbrydelser;2016;1109.0;225.0;0.2029
+810;Brønderslev;13;Ejendomsforbrydelser;2017;1179.0;185.0;0.1569
+810;Brønderslev;13;Ejendomsforbrydelser;2018;1149.0;309.0;0.2689
+810;Brønderslev;13;Ejendomsforbrydelser;2019;891.0;167.0;0.1874
+810;Brønderslev;13;Ejendomsforbrydelser;2020;763.0;212.0;0.2779
+810;Brønderslev;13;Ejendomsforbrydelser;2021;820.0;313.0;0.3817
+810;Brønderslev;13;Ejendomsforbrydelser;2022;839.0;282.0;0.3361
+810;Brønderslev;13;Ejendomsforbrydelser;2023;1069.0;520.0;0.4864
+810;Brønderslev;13;Ejendomsforbrydelser;2024;788.0;238.0;0.302
+810;Brønderslev;13;Ejendomsforbrydelser;2025;701.0;133.0;0.1897
+810;Brønderslev;14;Andre straffelovsforbrydelser;2007;20.0;17.0;0.85
+810;Brønderslev;14;Andre straffelovsforbrydelser;2008;25.0;21.0;0.84
+810;Brønderslev;14;Andre straffelovsforbrydelser;2009;20.0;14.0;0.7
+810;Brønderslev;14;Andre straffelovsforbrydelser;2010;28.0;23.0;0.8214
+810;Brønderslev;14;Andre straffelovsforbrydelser;2011;29.0;26.0;0.8966
+810;Brønderslev;14;Andre straffelovsforbrydelser;2012;22.0;21.0;0.9545
+810;Brønderslev;14;Andre straffelovsforbrydelser;2013;15.0;15.0;1.0
+810;Brønderslev;14;Andre straffelovsforbrydelser;2014;20.0;18.0;0.9
+810;Brønderslev;14;Andre straffelovsforbrydelser;2015;18.0;16.0;0.8889
+810;Brønderslev;14;Andre straffelovsforbrydelser;2016;20.0;18.0;0.9
+810;Brønderslev;14;Andre straffelovsforbrydelser;2017;23.0;19.0;0.8261
+810;Brønderslev;14;Andre straffelovsforbrydelser;2018;29.0;19.0;0.6552
+810;Brønderslev;14;Andre straffelovsforbrydelser;2019;40.0;22.0;0.55
+810;Brønderslev;14;Andre straffelovsforbrydelser;2020;36.0;18.0;0.5
+810;Brønderslev;14;Andre straffelovsforbrydelser;2021;19.0;10.0;0.5263
+810;Brønderslev;14;Andre straffelovsforbrydelser;2022;31.0;23.0;0.7419
+810;Brønderslev;14;Andre straffelovsforbrydelser;2023;34.0;21.0;0.6176
+810;Brønderslev;14;Andre straffelovsforbrydelser;2024;33.0;21.0;0.6364
+810;Brønderslev;14;Andre straffelovsforbrydelser;2025;52.0;23.0;0.4423
+810;Brønderslev;3;Særlove;2007;288.0;157.0;0.5451
+810;Brønderslev;3;Særlove;2008;250.0;114.0;0.456
+810;Brønderslev;3;Særlove;2009;258.0;140.0;0.5426
+810;Brønderslev;3;Særlove;2010;282.0;150.0;0.5319
+810;Brønderslev;3;Særlove;2011;478.0;314.0;0.6569
+810;Brønderslev;3;Særlove;2012;380.0;299.0;0.7868
+810;Brønderslev;3;Særlove;2013;466.0;302.0;0.6481
+810;Brønderslev;3;Særlove;2014;385.0;229.0;0.5948
+810;Brønderslev;3;Særlove;2015;405.0;239.0;0.5901
+810;Brønderslev;3;Særlove;2016;414.0;254.0;0.6135
+810;Brønderslev;3;Særlove;2017;443.0;222.0;0.5011
+810;Brønderslev;3;Særlove;2018;477.0;227.0;0.4759
+810;Brønderslev;3;Særlove;2019;507.0;241.0;0.4753
+810;Brønderslev;3;Særlove;2020;447.0;251.0;0.5615
+810;Brønderslev;3;Særlove;2021;524.0;262.0;0.5
+810;Brønderslev;3;Særlove;2022;490.0;305.0;0.6224
+810;Brønderslev;3;Særlove;2023;454.0;288.0;0.6344
+810;Brønderslev;3;Særlove;2024;432.0;234.0;0.5417
+810;Brønderslev;3;Særlove;2025;432.0;243.0;0.5625
+810;Brønderslev;TOT;I alt;2007;2438.0;525.0;0.2153
+810;Brønderslev;TOT;I alt;2008;2171.0;415.0;0.1912
+810;Brønderslev;TOT;I alt;2009;2038.0;414.0;0.2031
+810;Brønderslev;TOT;I alt;2010;2206.0;474.0;0.2149
+810;Brønderslev;TOT;I alt;2011;2451.0;722.0;0.2946
+810;Brønderslev;TOT;I alt;2012;1981.0;634.0;0.32
+810;Brønderslev;TOT;I alt;2013;2105.0;695.0;0.3302
+810;Brønderslev;TOT;I alt;2014;1901.0;687.0;0.3614
+810;Brønderslev;TOT;I alt;2015;1613.0;538.0;0.3335
+810;Brønderslev;TOT;I alt;2016;1673.0;587.0;0.3509
+810;Brønderslev;TOT;I alt;2017;1782.0;505.0;0.2834
+810;Brønderslev;TOT;I alt;2018;1798.0;639.0;0.3554
+810;Brønderslev;TOT;I alt;2019;1605.0;517.0;0.3221
+810;Brønderslev;TOT;I alt;2020;1428.0;610.0;0.4272
+810;Brønderslev;TOT;I alt;2021;1488.0;672.0;0.4516
+810;Brønderslev;TOT;I alt;2022;1552.0;720.0;0.4639
+810;Brønderslev;TOT;I alt;2023;1720.0;933.0;0.5424
+810;Brønderslev;TOT;I alt;2024;1428.0;594.0;0.416
+810;Brønderslev;TOT;I alt;2025;1357.0;501.0;0.3692
+813;Frederikshavn;1;Straffelov i alt;2007;4295.0;644.0;0.1499
+813;Frederikshavn;1;Straffelov i alt;2008;4623.0;602.0;0.1302
+813;Frederikshavn;1;Straffelov i alt;2009;5056.0;805.0;0.1592
+813;Frederikshavn;1;Straffelov i alt;2010;4241.0;682.0;0.1608
+813;Frederikshavn;1;Straffelov i alt;2011;4421.0;817.0;0.1848
+813;Frederikshavn;1;Straffelov i alt;2012;3312.0;659.0;0.199
+813;Frederikshavn;1;Straffelov i alt;2013;3268.0;607.0;0.1857
+813;Frederikshavn;1;Straffelov i alt;2014;2558.0;560.0;0.2189
+813;Frederikshavn;1;Straffelov i alt;2015;2943.0;651.0;0.2212
+813;Frederikshavn;1;Straffelov i alt;2016;3137.0;975.0;0.3108
+813;Frederikshavn;1;Straffelov i alt;2017;3302.0;964.0;0.2919
+813;Frederikshavn;1;Straffelov i alt;2018;3616.0;1807.0;0.4997
+813;Frederikshavn;1;Straffelov i alt;2019;2473.0;708.0;0.2863
+813;Frederikshavn;1;Straffelov i alt;2020;2029.0;742.0;0.3657
+813;Frederikshavn;1;Straffelov i alt;2021;1747.0;555.0;0.3177
+813;Frederikshavn;1;Straffelov i alt;2022;1904.0;622.0;0.3267
+813;Frederikshavn;1;Straffelov i alt;2023;2019.0;712.0;0.3526
+813;Frederikshavn;1;Straffelov i alt;2024;2375.0;749.0;0.3154
+813;Frederikshavn;1;Straffelov i alt;2025;1997.0;508.0;0.2544
+813;Frederikshavn;1000;Uoplyst straffelov;2007;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2008;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2009;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2010;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2011;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2012;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2013;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2014;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2015;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2016;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2017;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2018;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2019;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2020;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2021;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2022;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2023;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2024;0.0;0.0;
+813;Frederikshavn;1000;Uoplyst straffelov;2025;0.0;0.0;
+813;Frederikshavn;11;Seksualforbrydelser;2007;22.0;13.0;0.5909
+813;Frederikshavn;11;Seksualforbrydelser;2008;23.0;16.0;0.6957
+813;Frederikshavn;11;Seksualforbrydelser;2009;22.0;16.0;0.7273
+813;Frederikshavn;11;Seksualforbrydelser;2010;56.0;48.0;0.8571
+813;Frederikshavn;11;Seksualforbrydelser;2011;21.0;16.0;0.7619
+813;Frederikshavn;11;Seksualforbrydelser;2012;16.0;14.0;0.875
+813;Frederikshavn;11;Seksualforbrydelser;2013;13.0;12.0;0.9231
+813;Frederikshavn;11;Seksualforbrydelser;2014;38.0;34.0;0.8947
+813;Frederikshavn;11;Seksualforbrydelser;2015;28.0;26.0;0.9286
+813;Frederikshavn;11;Seksualforbrydelser;2016;35.0;23.0;0.6571
+813;Frederikshavn;11;Seksualforbrydelser;2017;71.0;51.0;0.7183
+813;Frederikshavn;11;Seksualforbrydelser;2018;89.0;73.0;0.8202
+813;Frederikshavn;11;Seksualforbrydelser;2019;46.0;26.0;0.5652
+813;Frederikshavn;11;Seksualforbrydelser;2020;36.0;22.0;0.6111
+813;Frederikshavn;11;Seksualforbrydelser;2021;71.0;46.0;0.6479
+813;Frederikshavn;11;Seksualforbrydelser;2022;55.0;37.0;0.6727
+813;Frederikshavn;11;Seksualforbrydelser;2023;79.0;47.0;0.5949
+813;Frederikshavn;11;Seksualforbrydelser;2024;115.0;91.0;0.7913
+813;Frederikshavn;11;Seksualforbrydelser;2025;64.0;38.0;0.5938
+813;Frederikshavn;12;Voldsforbrydelser;2007;172.0;156.0;0.907
+813;Frederikshavn;12;Voldsforbrydelser;2008;153.0;117.0;0.7647
+813;Frederikshavn;12;Voldsforbrydelser;2009;164.0;128.0;0.7805
+813;Frederikshavn;12;Voldsforbrydelser;2010;170.0;141.0;0.8294
+813;Frederikshavn;12;Voldsforbrydelser;2011;164.0;141.0;0.8598
+813;Frederikshavn;12;Voldsforbrydelser;2012;147.0;126.0;0.8571
+813;Frederikshavn;12;Voldsforbrydelser;2013;119.0;95.0;0.7983
+813;Frederikshavn;12;Voldsforbrydelser;2014;133.0;113.0;0.8496
+813;Frederikshavn;12;Voldsforbrydelser;2015;139.0;121.0;0.8705
+813;Frederikshavn;12;Voldsforbrydelser;2016;193.0;154.0;0.7979
+813;Frederikshavn;12;Voldsforbrydelser;2017;225.0;155.0;0.6889
+813;Frederikshavn;12;Voldsforbrydelser;2018;209.0;147.0;0.7033
+813;Frederikshavn;12;Voldsforbrydelser;2019;221.0;163.0;0.7376
+813;Frederikshavn;12;Voldsforbrydelser;2020;203.0;148.0;0.7291
+813;Frederikshavn;12;Voldsforbrydelser;2021;176.0;134.0;0.7614
+813;Frederikshavn;12;Voldsforbrydelser;2022;229.0;179.0;0.7817
+813;Frederikshavn;12;Voldsforbrydelser;2023;197.0;116.0;0.5888
+813;Frederikshavn;12;Voldsforbrydelser;2024;229.0;145.0;0.6332
+813;Frederikshavn;12;Voldsforbrydelser;2025;252.0;138.0;0.5476
+813;Frederikshavn;13;Ejendomsforbrydelser;2007;4050.0;428.0;0.1057
+813;Frederikshavn;13;Ejendomsforbrydelser;2008;4393.0;424.0;0.0965
+813;Frederikshavn;13;Ejendomsforbrydelser;2009;4787.0;598.0;0.1249
+813;Frederikshavn;13;Ejendomsforbrydelser;2010;3930.0;420.0;0.1069
+813;Frederikshavn;13;Ejendomsforbrydelser;2011;4161.0;593.0;0.1425
+813;Frederikshavn;13;Ejendomsforbrydelser;2012;3086.0;460.0;0.1491
+813;Frederikshavn;13;Ejendomsforbrydelser;2013;3065.0;436.0;0.1423
+813;Frederikshavn;13;Ejendomsforbrydelser;2014;2331.0;364.0;0.1562
+813;Frederikshavn;13;Ejendomsforbrydelser;2015;2733.0;470.0;0.172
+813;Frederikshavn;13;Ejendomsforbrydelser;2016;2857.0;756.0;0.2646
+813;Frederikshavn;13;Ejendomsforbrydelser;2017;2931.0;706.0;0.2409
+813;Frederikshavn;13;Ejendomsforbrydelser;2018;3221.0;1519.0;0.4716
+813;Frederikshavn;13;Ejendomsforbrydelser;2019;2113.0;455.0;0.2153
+813;Frederikshavn;13;Ejendomsforbrydelser;2020;1672.0;497.0;0.2972
+813;Frederikshavn;13;Ejendomsforbrydelser;2021;1416.0;307.0;0.2168
+813;Frederikshavn;13;Ejendomsforbrydelser;2022;1536.0;351.0;0.2285
+813;Frederikshavn;13;Ejendomsforbrydelser;2023;1670.0;496.0;0.297
+813;Frederikshavn;13;Ejendomsforbrydelser;2024;1939.0;462.0;0.2383
+813;Frederikshavn;13;Ejendomsforbrydelser;2025;1607.0;292.0;0.1817
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2007;51.0;47.0;0.9216
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2008;54.0;45.0;0.8333
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2009;83.0;63.0;0.759
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2010;85.0;73.0;0.8588
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2011;75.0;67.0;0.8933
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2012;63.0;59.0;0.9365
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2013;71.0;64.0;0.9014
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2014;56.0;49.0;0.875
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2015;43.0;34.0;0.7907
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2016;52.0;42.0;0.8077
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2017;75.0;52.0;0.6933
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2018;97.0;68.0;0.701
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2019;93.0;64.0;0.6882
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2020;118.0;75.0;0.6356
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2021;84.0;68.0;0.8095
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2022;84.0;55.0;0.6548
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2023;73.0;53.0;0.726
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2024;92.0;51.0;0.5543
+813;Frederikshavn;14;Andre straffelovsforbrydelser;2025;74.0;40.0;0.5405
+813;Frederikshavn;3;Særlove;2007;634.0;344.0;0.5426
+813;Frederikshavn;3;Særlove;2008;552.0;264.0;0.4783
+813;Frederikshavn;3;Særlove;2009;912.0;448.0;0.4912
+813;Frederikshavn;3;Særlove;2010;786.0;501.0;0.6374
+813;Frederikshavn;3;Særlove;2011;987.0;751.0;0.7609
+813;Frederikshavn;3;Særlove;2012;914.0;731.0;0.7998
+813;Frederikshavn;3;Særlove;2013;874.0;641.0;0.7334
+813;Frederikshavn;3;Særlove;2014;901.0;658.0;0.7303
+813;Frederikshavn;3;Særlove;2015;781.0;475.0;0.6082
+813;Frederikshavn;3;Særlove;2016;891.0;582.0;0.6532
+813;Frederikshavn;3;Særlove;2017;953.0;468.0;0.4911
+813;Frederikshavn;3;Særlove;2018;1079.0;605.0;0.5607
+813;Frederikshavn;3;Særlove;2019;1106.0;559.0;0.5054
+813;Frederikshavn;3;Særlove;2020;903.0;495.0;0.5482
+813;Frederikshavn;3;Særlove;2021;1007.0;622.0;0.6177
+813;Frederikshavn;3;Særlove;2022;1130.0;740.0;0.6549
+813;Frederikshavn;3;Særlove;2023;1068.0;659.0;0.617
+813;Frederikshavn;3;Særlove;2024;953.0;640.0;0.6716
+813;Frederikshavn;3;Særlove;2025;1262.0;760.0;0.6022
+813;Frederikshavn;TOT;I alt;2007;4929.0;988.0;0.2004
+813;Frederikshavn;TOT;I alt;2008;5175.0;866.0;0.1673
+813;Frederikshavn;TOT;I alt;2009;5968.0;1253.0;0.21
+813;Frederikshavn;TOT;I alt;2010;5027.0;1183.0;0.2353
+813;Frederikshavn;TOT;I alt;2011;5408.0;1568.0;0.2899
+813;Frederikshavn;TOT;I alt;2012;4226.0;1390.0;0.3289
+813;Frederikshavn;TOT;I alt;2013;4142.0;1248.0;0.3013
+813;Frederikshavn;TOT;I alt;2014;3459.0;1218.0;0.3521
+813;Frederikshavn;TOT;I alt;2015;3724.0;1126.0;0.3024
+813;Frederikshavn;TOT;I alt;2016;4028.0;1557.0;0.3865
+813;Frederikshavn;TOT;I alt;2017;4255.0;1432.0;0.3365
+813;Frederikshavn;TOT;I alt;2018;4695.0;2412.0;0.5137
+813;Frederikshavn;TOT;I alt;2019;3579.0;1267.0;0.354
+813;Frederikshavn;TOT;I alt;2020;2932.0;1237.0;0.4219
+813;Frederikshavn;TOT;I alt;2021;2754.0;1177.0;0.4274
+813;Frederikshavn;TOT;I alt;2022;3034.0;1362.0;0.4489
+813;Frederikshavn;TOT;I alt;2023;3087.0;1371.0;0.4441
+813;Frederikshavn;TOT;I alt;2024;3328.0;1389.0;0.4174
+813;Frederikshavn;TOT;I alt;2025;3259.0;1268.0;0.3891
+820;Vesthimmerland;1;Straffelov i alt;2007;2372.0;368.0;0.1551
+820;Vesthimmerland;1;Straffelov i alt;2008;2773.0;421.0;0.1518
+820;Vesthimmerland;1;Straffelov i alt;2009;2679.0;377.0;0.1407
+820;Vesthimmerland;1;Straffelov i alt;2010;2362.0;349.0;0.1478
+820;Vesthimmerland;1;Straffelov i alt;2011;2281.0;339.0;0.1486
+820;Vesthimmerland;1;Straffelov i alt;2012;2168.0;459.0;0.2117
+820;Vesthimmerland;1;Straffelov i alt;2013;2280.0;526.0;0.2307
+820;Vesthimmerland;1;Straffelov i alt;2014;1930.0;402.0;0.2083
+820;Vesthimmerland;1;Straffelov i alt;2015;1955.0;642.0;0.3284
+820;Vesthimmerland;1;Straffelov i alt;2016;1655.0;437.0;0.264
+820;Vesthimmerland;1;Straffelov i alt;2017;1573.0;475.0;0.302
+820;Vesthimmerland;1;Straffelov i alt;2018;1348.0;314.0;0.2329
+820;Vesthimmerland;1;Straffelov i alt;2019;1306.0;331.0;0.2534
+820;Vesthimmerland;1;Straffelov i alt;2020;1325.0;368.0;0.2777
+820;Vesthimmerland;1;Straffelov i alt;2021;1689.0;739.0;0.4375
+820;Vesthimmerland;1;Straffelov i alt;2022;1147.0;292.0;0.2546
+820;Vesthimmerland;1;Straffelov i alt;2023;1967.0;1146.0;0.5826
+820;Vesthimmerland;1;Straffelov i alt;2024;1278.0;428.0;0.3349
+820;Vesthimmerland;1;Straffelov i alt;2025;1184.0;289.0;0.2441
+820;Vesthimmerland;1000;Uoplyst straffelov;2007;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2008;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2009;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2010;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2011;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2012;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2013;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2014;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2015;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2016;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2017;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2018;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2019;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2020;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2021;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2022;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2023;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2024;0.0;0.0;
+820;Vesthimmerland;1000;Uoplyst straffelov;2025;0.0;0.0;
+820;Vesthimmerland;11;Seksualforbrydelser;2007;17.0;15.0;0.8824
+820;Vesthimmerland;11;Seksualforbrydelser;2008;15.0;8.0;0.5333
+820;Vesthimmerland;11;Seksualforbrydelser;2009;15.0;12.0;0.8
+820;Vesthimmerland;11;Seksualforbrydelser;2010;19.0;16.0;0.8421
+820;Vesthimmerland;11;Seksualforbrydelser;2011;18.0;11.0;0.6111
+820;Vesthimmerland;11;Seksualforbrydelser;2012;21.0;18.0;0.8571
+820;Vesthimmerland;11;Seksualforbrydelser;2013;13.0;10.0;0.7692
+820;Vesthimmerland;11;Seksualforbrydelser;2014;21.0;17.0;0.8095
+820;Vesthimmerland;11;Seksualforbrydelser;2015;13.0;12.0;0.9231
+820;Vesthimmerland;11;Seksualforbrydelser;2016;28.0;19.0;0.6786
+820;Vesthimmerland;11;Seksualforbrydelser;2017;35.0;21.0;0.6
+820;Vesthimmerland;11;Seksualforbrydelser;2018;49.0;40.0;0.8163
+820;Vesthimmerland;11;Seksualforbrydelser;2019;34.0;27.0;0.7941
+820;Vesthimmerland;11;Seksualforbrydelser;2020;52.0;41.0;0.7885
+820;Vesthimmerland;11;Seksualforbrydelser;2021;33.0;26.0;0.7879
+820;Vesthimmerland;11;Seksualforbrydelser;2022;28.0;20.0;0.7143
+820;Vesthimmerland;11;Seksualforbrydelser;2023;32.0;25.0;0.7812
+820;Vesthimmerland;11;Seksualforbrydelser;2024;29.0;18.0;0.6207
+820;Vesthimmerland;11;Seksualforbrydelser;2025;31.0;18.0;0.5806
+820;Vesthimmerland;12;Voldsforbrydelser;2007;130.0;109.0;0.8385
+820;Vesthimmerland;12;Voldsforbrydelser;2008;108.0;81.0;0.75
+820;Vesthimmerland;12;Voldsforbrydelser;2009;120.0;101.0;0.8417
+820;Vesthimmerland;12;Voldsforbrydelser;2010;93.0;71.0;0.7634
+820;Vesthimmerland;12;Voldsforbrydelser;2011;96.0;81.0;0.8438
+820;Vesthimmerland;12;Voldsforbrydelser;2012;114.0;93.0;0.8158
+820;Vesthimmerland;12;Voldsforbrydelser;2013;96.0;89.0;0.9271
+820;Vesthimmerland;12;Voldsforbrydelser;2014;95.0;78.0;0.8211
+820;Vesthimmerland;12;Voldsforbrydelser;2015;89.0;74.0;0.8315
+820;Vesthimmerland;12;Voldsforbrydelser;2016;127.0;100.0;0.7874
+820;Vesthimmerland;12;Voldsforbrydelser;2017;162.0;108.0;0.6667
+820;Vesthimmerland;12;Voldsforbrydelser;2018;132.0;79.0;0.5985
+820;Vesthimmerland;12;Voldsforbrydelser;2019;127.0;67.0;0.5276
+820;Vesthimmerland;12;Voldsforbrydelser;2020;167.0;115.0;0.6886
+820;Vesthimmerland;12;Voldsforbrydelser;2021;141.0;87.0;0.617
+820;Vesthimmerland;12;Voldsforbrydelser;2022;129.0;69.0;0.5349
+820;Vesthimmerland;12;Voldsforbrydelser;2023;161.0;105.0;0.6522
+820;Vesthimmerland;12;Voldsforbrydelser;2024;163.0;90.0;0.5521
+820;Vesthimmerland;12;Voldsforbrydelser;2025;183.0;86.0;0.4699
+820;Vesthimmerland;13;Ejendomsforbrydelser;2007;2200.0;223.0;0.1014
+820;Vesthimmerland;13;Ejendomsforbrydelser;2008;2630.0;315.0;0.1198
+820;Vesthimmerland;13;Ejendomsforbrydelser;2009;2522.0;246.0;0.0975
+820;Vesthimmerland;13;Ejendomsforbrydelser;2010;2226.0;244.0;0.1096
+820;Vesthimmerland;13;Ejendomsforbrydelser;2011;2126.0;213.0;0.1002
+820;Vesthimmerland;13;Ejendomsforbrydelser;2012;2007.0;324.0;0.1614
+820;Vesthimmerland;13;Ejendomsforbrydelser;2013;2142.0;403.0;0.1881
+820;Vesthimmerland;13;Ejendomsforbrydelser;2014;1774.0;272.0;0.1533
+820;Vesthimmerland;13;Ejendomsforbrydelser;2015;1827.0;533.0;0.2917
+820;Vesthimmerland;13;Ejendomsforbrydelser;2016;1476.0;305.0;0.2066
+820;Vesthimmerland;13;Ejendomsforbrydelser;2017;1351.0;329.0;0.2435
+820;Vesthimmerland;13;Ejendomsforbrydelser;2018;1119.0;172.0;0.1537
+820;Vesthimmerland;13;Ejendomsforbrydelser;2019;1115.0;226.0;0.2027
+820;Vesthimmerland;13;Ejendomsforbrydelser;2020;1087.0;200.0;0.184
+820;Vesthimmerland;13;Ejendomsforbrydelser;2021;1474.0;601.0;0.4077
+820;Vesthimmerland;13;Ejendomsforbrydelser;2022;947.0;179.0;0.189
+820;Vesthimmerland;13;Ejendomsforbrydelser;2023;1728.0;992.0;0.5741
+820;Vesthimmerland;13;Ejendomsforbrydelser;2024;1044.0;297.0;0.2845
+820;Vesthimmerland;13;Ejendomsforbrydelser;2025;937.0;169.0;0.1804
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2007;25.0;21.0;0.84
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2008;20.0;17.0;0.85
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2009;22.0;18.0;0.8182
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2010;24.0;18.0;0.75
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2011;41.0;34.0;0.8293
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2012;26.0;24.0;0.9231
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2013;29.0;24.0;0.8276
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2014;40.0;35.0;0.875
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2015;26.0;23.0;0.8846
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2016;24.0;13.0;0.5417
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2017;25.0;17.0;0.68
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2018;48.0;23.0;0.4792
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2019;30.0;11.0;0.3667
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2020;19.0;12.0;0.6316
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2021;41.0;25.0;0.6098
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2022;43.0;24.0;0.5581
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2023;46.0;24.0;0.5217
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2024;42.0;23.0;0.5476
+820;Vesthimmerland;14;Andre straffelovsforbrydelser;2025;33.0;16.0;0.4848
+820;Vesthimmerland;3;Særlove;2007;291.0;124.0;0.4261
+820;Vesthimmerland;3;Særlove;2008;305.0;136.0;0.4459
+820;Vesthimmerland;3;Særlove;2009;313.0;153.0;0.4888
+820;Vesthimmerland;3;Særlove;2010;322.0;154.0;0.4783
+820;Vesthimmerland;3;Særlove;2011;498.0;332.0;0.6667
+820;Vesthimmerland;3;Særlove;2012;442.0;302.0;0.6833
+820;Vesthimmerland;3;Særlove;2013;457.0;245.0;0.5361
+820;Vesthimmerland;3;Særlove;2014;533.0;326.0;0.6116
+820;Vesthimmerland;3;Særlove;2015;517.0;303.0;0.5861
+820;Vesthimmerland;3;Særlove;2016;499.0;309.0;0.6192
+820;Vesthimmerland;3;Særlove;2017;484.0;204.0;0.4215
+820;Vesthimmerland;3;Særlove;2018;588.0;281.0;0.4779
+820;Vesthimmerland;3;Særlove;2019;518.0;218.0;0.4208
+820;Vesthimmerland;3;Særlove;2020;412.0;232.0;0.5631
+820;Vesthimmerland;3;Særlove;2021;534.0;289.0;0.5412
+820;Vesthimmerland;3;Særlove;2022;504.0;341.0;0.6766
+820;Vesthimmerland;3;Særlove;2023;522.0;339.0;0.6494
+820;Vesthimmerland;3;Særlove;2024;578.0;314.0;0.5433
+820;Vesthimmerland;3;Særlove;2025;514.0;245.0;0.4767
+820;Vesthimmerland;TOT;I alt;2007;2663.0;492.0;0.1848
+820;Vesthimmerland;TOT;I alt;2008;3078.0;557.0;0.181
+820;Vesthimmerland;TOT;I alt;2009;2992.0;530.0;0.1771
+820;Vesthimmerland;TOT;I alt;2010;2684.0;503.0;0.1874
+820;Vesthimmerland;TOT;I alt;2011;2779.0;671.0;0.2415
+820;Vesthimmerland;TOT;I alt;2012;2610.0;761.0;0.2916
+820;Vesthimmerland;TOT;I alt;2013;2737.0;771.0;0.2817
+820;Vesthimmerland;TOT;I alt;2014;2463.0;728.0;0.2956
+820;Vesthimmerland;TOT;I alt;2015;2472.0;945.0;0.3823
+820;Vesthimmerland;TOT;I alt;2016;2154.0;746.0;0.3463
+820;Vesthimmerland;TOT;I alt;2017;2057.0;679.0;0.3301
+820;Vesthimmerland;TOT;I alt;2018;1936.0;595.0;0.3073
+820;Vesthimmerland;TOT;I alt;2019;1824.0;549.0;0.301
+820;Vesthimmerland;TOT;I alt;2020;1737.0;600.0;0.3454
+820;Vesthimmerland;TOT;I alt;2021;2223.0;1028.0;0.4624
+820;Vesthimmerland;TOT;I alt;2022;1651.0;633.0;0.3834
+820;Vesthimmerland;TOT;I alt;2023;2489.0;1485.0;0.5966
+820;Vesthimmerland;TOT;I alt;2024;1856.0;742.0;0.3998
+820;Vesthimmerland;TOT;I alt;2025;1698.0;534.0;0.3145
+825;Læsø;1;Straffelov i alt;2007;28.0;5.0;0.1786
+825;Læsø;1;Straffelov i alt;2008;12.0;2.0;0.1667
+825;Læsø;1;Straffelov i alt;2009;30.0;13.0;0.4333
+825;Læsø;1;Straffelov i alt;2010;45.0;18.0;0.4
+825;Læsø;1;Straffelov i alt;2011;36.0;8.0;0.2222
+825;Læsø;1;Straffelov i alt;2012;32.0;21.0;0.6562
+825;Læsø;1;Straffelov i alt;2013;49.0;19.0;0.3878
+825;Læsø;1;Straffelov i alt;2014;48.0;24.0;0.5
+825;Læsø;1;Straffelov i alt;2015;40.0;13.0;0.325
+825;Læsø;1;Straffelov i alt;2016;18.0;6.0;0.3333
+825;Læsø;1;Straffelov i alt;2017;16.0;2.0;0.125
+825;Læsø;1;Straffelov i alt;2018;43.0;7.0;0.1628
+825;Læsø;1;Straffelov i alt;2019;31.0;16.0;0.5161
+825;Læsø;1;Straffelov i alt;2020;31.0;3.0;0.0968
+825;Læsø;1;Straffelov i alt;2021;15.0;3.0;0.2
+825;Læsø;1;Straffelov i alt;2022;20.0;3.0;0.15
+825;Læsø;1;Straffelov i alt;2023;16.0;3.0;0.1875
+825;Læsø;1;Straffelov i alt;2024;53.0;8.0;0.1509
+825;Læsø;1;Straffelov i alt;2025;30.0;6.0;0.2
+825;Læsø;1000;Uoplyst straffelov;2007;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2008;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2009;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2010;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2011;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2012;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2013;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2014;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2015;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2016;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2017;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2018;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2019;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2020;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2021;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2022;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2023;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2024;0.0;0.0;
+825;Læsø;1000;Uoplyst straffelov;2025;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2007;1.0;1.0;1.0
+825;Læsø;11;Seksualforbrydelser;2008;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2009;2.0;2.0;1.0
+825;Læsø;11;Seksualforbrydelser;2010;5.0;5.0;1.0
+825;Læsø;11;Seksualforbrydelser;2011;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2012;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2013;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2014;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2015;1.0;1.0;1.0
+825;Læsø;11;Seksualforbrydelser;2016;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2017;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2018;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2019;10.0;10.0;1.0
+825;Læsø;11;Seksualforbrydelser;2020;3.0;1.0;0.3333
+825;Læsø;11;Seksualforbrydelser;2021;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2022;0.0;0.0;
+825;Læsø;11;Seksualforbrydelser;2023;1.0;1.0;1.0
+825;Læsø;11;Seksualforbrydelser;2024;1.0;1.0;1.0
+825;Læsø;11;Seksualforbrydelser;2025;3.0;3.0;1.0
+825;Læsø;12;Voldsforbrydelser;2007;1.0;1.0;1.0
+825;Læsø;12;Voldsforbrydelser;2008;2.0;2.0;1.0
+825;Læsø;12;Voldsforbrydelser;2009;3.0;3.0;1.0
+825;Læsø;12;Voldsforbrydelser;2010;11.0;10.0;0.9091
+825;Læsø;12;Voldsforbrydelser;2011;5.0;5.0;1.0
+825;Læsø;12;Voldsforbrydelser;2012;3.0;3.0;1.0
+825;Læsø;12;Voldsforbrydelser;2013;9.0;9.0;1.0
+825;Læsø;12;Voldsforbrydelser;2014;4.0;4.0;1.0
+825;Læsø;12;Voldsforbrydelser;2015;6.0;5.0;0.8333
+825;Læsø;12;Voldsforbrydelser;2016;2.0;1.0;0.5
+825;Læsø;12;Voldsforbrydelser;2017;1.0;0.0;0.0
+825;Læsø;12;Voldsforbrydelser;2018;1.0;0.0;0.0
+825;Læsø;12;Voldsforbrydelser;2019;2.0;2.0;1.0
+825;Læsø;12;Voldsforbrydelser;2020;0.0;0.0;
+825;Læsø;12;Voldsforbrydelser;2021;2.0;2.0;1.0
+825;Læsø;12;Voldsforbrydelser;2022;3.0;1.0;0.3333
+825;Læsø;12;Voldsforbrydelser;2023;4.0;2.0;0.5
+825;Læsø;12;Voldsforbrydelser;2024;20.0;4.0;0.2
+825;Læsø;12;Voldsforbrydelser;2025;3.0;1.0;0.3333
+825;Læsø;13;Ejendomsforbrydelser;2007;26.0;3.0;0.1154
+825;Læsø;13;Ejendomsforbrydelser;2008;10.0;0.0;0.0
+825;Læsø;13;Ejendomsforbrydelser;2009;24.0;8.0;0.3333
+825;Læsø;13;Ejendomsforbrydelser;2010;27.0;1.0;0.037
+825;Læsø;13;Ejendomsforbrydelser;2011;29.0;2.0;0.069
+825;Læsø;13;Ejendomsforbrydelser;2012;29.0;18.0;0.6207
+825;Læsø;13;Ejendomsforbrydelser;2013;40.0;10.0;0.25
+825;Læsø;13;Ejendomsforbrydelser;2014;43.0;19.0;0.4419
+825;Læsø;13;Ejendomsforbrydelser;2015;31.0;5.0;0.1613
+825;Læsø;13;Ejendomsforbrydelser;2016;15.0;4.0;0.2667
+825;Læsø;13;Ejendomsforbrydelser;2017;15.0;2.0;0.1333
+825;Læsø;13;Ejendomsforbrydelser;2018;38.0;5.0;0.1316
+825;Læsø;13;Ejendomsforbrydelser;2019;18.0;4.0;0.2222
+825;Læsø;13;Ejendomsforbrydelser;2020;27.0;1.0;0.037
+825;Læsø;13;Ejendomsforbrydelser;2021;13.0;1.0;0.0769
+825;Læsø;13;Ejendomsforbrydelser;2022;16.0;1.0;0.0625
+825;Læsø;13;Ejendomsforbrydelser;2023;9.0;0.0;0.0
+825;Læsø;13;Ejendomsforbrydelser;2024;20.0;1.0;0.05
+825;Læsø;13;Ejendomsforbrydelser;2025;23.0;2.0;0.087
+825;Læsø;14;Andre straffelovsforbrydelser;2007;0.0;0.0;
+825;Læsø;14;Andre straffelovsforbrydelser;2008;0.0;0.0;
+825;Læsø;14;Andre straffelovsforbrydelser;2009;1.0;0.0;0.0
+825;Læsø;14;Andre straffelovsforbrydelser;2010;2.0;2.0;1.0
+825;Læsø;14;Andre straffelovsforbrydelser;2011;2.0;1.0;0.5
+825;Læsø;14;Andre straffelovsforbrydelser;2012;0.0;0.0;
+825;Læsø;14;Andre straffelovsforbrydelser;2013;0.0;0.0;
+825;Læsø;14;Andre straffelovsforbrydelser;2014;1.0;1.0;1.0
+825;Læsø;14;Andre straffelovsforbrydelser;2015;2.0;2.0;1.0
+825;Læsø;14;Andre straffelovsforbrydelser;2016;1.0;1.0;1.0
+825;Læsø;14;Andre straffelovsforbrydelser;2017;0.0;0.0;
+825;Læsø;14;Andre straffelovsforbrydelser;2018;4.0;2.0;0.5
+825;Læsø;14;Andre straffelovsforbrydelser;2019;1.0;0.0;0.0
+825;Læsø;14;Andre straffelovsforbrydelser;2020;1.0;1.0;1.0
+825;Læsø;14;Andre straffelovsforbrydelser;2021;0.0;0.0;
+825;Læsø;14;Andre straffelovsforbrydelser;2022;1.0;1.0;1.0
+825;Læsø;14;Andre straffelovsforbrydelser;2023;2.0;0.0;0.0
+825;Læsø;14;Andre straffelovsforbrydelser;2024;12.0;2.0;0.1667
+825;Læsø;14;Andre straffelovsforbrydelser;2025;1.0;0.0;0.0
+825;Læsø;3;Særlove;2007;7.0;3.0;0.4286
+825;Læsø;3;Særlove;2008;7.0;1.0;0.1429
+825;Læsø;3;Særlove;2009;21.0;10.0;0.4762
+825;Læsø;3;Særlove;2010;8.0;5.0;0.625
+825;Læsø;3;Særlove;2011;34.0;24.0;0.7059
+825;Læsø;3;Særlove;2012;22.0;12.0;0.5455
+825;Læsø;3;Særlove;2013;16.0;6.0;0.375
+825;Læsø;3;Særlove;2014;17.0;12.0;0.7059
+825;Læsø;3;Særlove;2015;20.0;12.0;0.6
+825;Læsø;3;Særlove;2016;21.0;9.0;0.4286
+825;Læsø;3;Særlove;2017;24.0;10.0;0.4167
+825;Læsø;3;Særlove;2018;30.0;15.0;0.5
+825;Læsø;3;Særlove;2019;25.0;15.0;0.6
+825;Læsø;3;Særlove;2020;12.0;10.0;0.8333
+825;Læsø;3;Særlove;2021;15.0;9.0;0.6
+825;Læsø;3;Særlove;2022;22.0;12.0;0.5455
+825;Læsø;3;Særlove;2023;20.0;9.0;0.45
+825;Læsø;3;Særlove;2024;33.0;19.0;0.5758
+825;Læsø;3;Særlove;2025;27.0;10.0;0.3704
+825;Læsø;TOT;I alt;2007;35.0;8.0;0.2286
+825;Læsø;TOT;I alt;2008;19.0;3.0;0.1579
+825;Læsø;TOT;I alt;2009;51.0;23.0;0.451
+825;Læsø;TOT;I alt;2010;53.0;23.0;0.434
+825;Læsø;TOT;I alt;2011;70.0;32.0;0.4571
+825;Læsø;TOT;I alt;2012;54.0;33.0;0.6111
+825;Læsø;TOT;I alt;2013;65.0;25.0;0.3846
+825;Læsø;TOT;I alt;2014;65.0;36.0;0.5538
+825;Læsø;TOT;I alt;2015;60.0;25.0;0.4167
+825;Læsø;TOT;I alt;2016;39.0;15.0;0.3846
+825;Læsø;TOT;I alt;2017;40.0;12.0;0.3
+825;Læsø;TOT;I alt;2018;73.0;22.0;0.3014
+825;Læsø;TOT;I alt;2019;56.0;31.0;0.5536
+825;Læsø;TOT;I alt;2020;43.0;13.0;0.3023
+825;Læsø;TOT;I alt;2021;30.0;12.0;0.4
+825;Læsø;TOT;I alt;2022;42.0;15.0;0.3571
+825;Læsø;TOT;I alt;2023;36.0;12.0;0.3333
+825;Læsø;TOT;I alt;2024;86.0;27.0;0.314
+825;Læsø;TOT;I alt;2025;57.0;16.0;0.2807
+840;Rebild;1;Straffelov i alt;2007;1120.0;135.0;0.1205
+840;Rebild;1;Straffelov i alt;2008;1387.0;165.0;0.119
+840;Rebild;1;Straffelov i alt;2009;1307.0;171.0;0.1308
+840;Rebild;1;Straffelov i alt;2010;1252.0;146.0;0.1166
+840;Rebild;1;Straffelov i alt;2011;1249.0;172.0;0.1377
+840;Rebild;1;Straffelov i alt;2012;1349.0;200.0;0.1483
+840;Rebild;1;Straffelov i alt;2013;1184.0;226.0;0.1909
+840;Rebild;1;Straffelov i alt;2014;993.0;144.0;0.145
+840;Rebild;1;Straffelov i alt;2015;924.0;106.0;0.1147
+840;Rebild;1;Straffelov i alt;2016;939.0;272.0;0.2897
+840;Rebild;1;Straffelov i alt;2017;834.0;144.0;0.1727
+840;Rebild;1;Straffelov i alt;2018;721.0;132.0;0.1831
+840;Rebild;1;Straffelov i alt;2019;703.0;214.0;0.3044
+840;Rebild;1;Straffelov i alt;2020;660.0;161.0;0.2439
+840;Rebild;1;Straffelov i alt;2021;561.0;141.0;0.2513
+840;Rebild;1;Straffelov i alt;2022;637.0;133.0;0.2088
+840;Rebild;1;Straffelov i alt;2023;591.0;121.0;0.2047
+840;Rebild;1;Straffelov i alt;2024;684.0;171.0;0.25
+840;Rebild;1;Straffelov i alt;2025;630.0;126.0;0.2
+840;Rebild;1000;Uoplyst straffelov;2007;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2008;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2009;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2010;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2011;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2012;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2013;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2014;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2015;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2016;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2017;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2018;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2019;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2020;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2021;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2022;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2023;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2024;0.0;0.0;
+840;Rebild;1000;Uoplyst straffelov;2025;0.0;0.0;
+840;Rebild;11;Seksualforbrydelser;2007;17.0;12.0;0.7059
+840;Rebild;11;Seksualforbrydelser;2008;9.0;5.0;0.5556
+840;Rebild;11;Seksualforbrydelser;2009;8.0;1.0;0.125
+840;Rebild;11;Seksualforbrydelser;2010;18.0;18.0;1.0
+840;Rebild;11;Seksualforbrydelser;2011;8.0;8.0;1.0
+840;Rebild;11;Seksualforbrydelser;2012;10.0;8.0;0.8
+840;Rebild;11;Seksualforbrydelser;2013;11.0;9.0;0.8182
+840;Rebild;11;Seksualforbrydelser;2014;7.0;6.0;0.8571
+840;Rebild;11;Seksualforbrydelser;2015;8.0;0.0;0.0
+840;Rebild;11;Seksualforbrydelser;2016;10.0;2.0;0.2
+840;Rebild;11;Seksualforbrydelser;2017;7.0;3.0;0.4286
+840;Rebild;11;Seksualforbrydelser;2018;21.0;17.0;0.8095
+840;Rebild;11;Seksualforbrydelser;2019;45.0;33.0;0.7333
+840;Rebild;11;Seksualforbrydelser;2020;16.0;11.0;0.6875
+840;Rebild;11;Seksualforbrydelser;2021;12.0;11.0;0.9167
+840;Rebild;11;Seksualforbrydelser;2022;11.0;8.0;0.7273
+840;Rebild;11;Seksualforbrydelser;2023;14.0;11.0;0.7857
+840;Rebild;11;Seksualforbrydelser;2024;32.0;18.0;0.5625
+840;Rebild;11;Seksualforbrydelser;2025;26.0;13.0;0.5
+840;Rebild;12;Voldsforbrydelser;2007;30.0;23.0;0.7667
+840;Rebild;12;Voldsforbrydelser;2008;37.0;27.0;0.7297
+840;Rebild;12;Voldsforbrydelser;2009;50.0;45.0;0.9
+840;Rebild;12;Voldsforbrydelser;2010;40.0;29.0;0.725
+840;Rebild;12;Voldsforbrydelser;2011;42.0;36.0;0.8571
+840;Rebild;12;Voldsforbrydelser;2012;31.0;24.0;0.7742
+840;Rebild;12;Voldsforbrydelser;2013;34.0;30.0;0.8824
+840;Rebild;12;Voldsforbrydelser;2014;19.0;16.0;0.8421
+840;Rebild;12;Voldsforbrydelser;2015;30.0;16.0;0.5333
+840;Rebild;12;Voldsforbrydelser;2016;49.0;34.0;0.6939
+840;Rebild;12;Voldsforbrydelser;2017;52.0;35.0;0.6731
+840;Rebild;12;Voldsforbrydelser;2018;51.0;33.0;0.6471
+840;Rebild;12;Voldsforbrydelser;2019;56.0;32.0;0.5714
+840;Rebild;12;Voldsforbrydelser;2020;55.0;35.0;0.6364
+840;Rebild;12;Voldsforbrydelser;2021;39.0;28.0;0.7179
+840;Rebild;12;Voldsforbrydelser;2022;48.0;25.0;0.5208
+840;Rebild;12;Voldsforbrydelser;2023;41.0;23.0;0.561
+840;Rebild;12;Voldsforbrydelser;2024;66.0;33.0;0.5
+840;Rebild;12;Voldsforbrydelser;2025;57.0;26.0;0.4561
+840;Rebild;13;Ejendomsforbrydelser;2007;1062.0;93.0;0.0876
+840;Rebild;13;Ejendomsforbrydelser;2008;1330.0;126.0;0.0947
+840;Rebild;13;Ejendomsforbrydelser;2009;1231.0;110.0;0.0894
+840;Rebild;13;Ejendomsforbrydelser;2010;1180.0;87.0;0.0737
+840;Rebild;13;Ejendomsforbrydelser;2011;1180.0;113.0;0.0958
+840;Rebild;13;Ejendomsforbrydelser;2012;1292.0;157.0;0.1215
+840;Rebild;13;Ejendomsforbrydelser;2013;1123.0;171.0;0.1523
+840;Rebild;13;Ejendomsforbrydelser;2014;951.0;109.0;0.1146
+840;Rebild;13;Ejendomsforbrydelser;2015;871.0;75.0;0.0861
+840;Rebild;13;Ejendomsforbrydelser;2016;844.0;208.0;0.2464
+840;Rebild;13;Ejendomsforbrydelser;2017;752.0;96.0;0.1277
+840;Rebild;13;Ejendomsforbrydelser;2018;627.0;72.0;0.1148
+840;Rebild;13;Ejendomsforbrydelser;2019;559.0;115.0;0.2057
+840;Rebild;13;Ejendomsforbrydelser;2020;563.0;104.0;0.1847
+840;Rebild;13;Ejendomsforbrydelser;2021;488.0;90.0;0.1844
+840;Rebild;13;Ejendomsforbrydelser;2022;563.0;90.0;0.1599
+840;Rebild;13;Ejendomsforbrydelser;2023;521.0;83.0;0.1593
+840;Rebild;13;Ejendomsforbrydelser;2024;577.0;116.0;0.201
+840;Rebild;13;Ejendomsforbrydelser;2025;527.0;84.0;0.1594
+840;Rebild;14;Andre straffelovsforbrydelser;2007;11.0;7.0;0.6364
+840;Rebild;14;Andre straffelovsforbrydelser;2008;11.0;7.0;0.6364
+840;Rebild;14;Andre straffelovsforbrydelser;2009;18.0;15.0;0.8333
+840;Rebild;14;Andre straffelovsforbrydelser;2010;14.0;12.0;0.8571
+840;Rebild;14;Andre straffelovsforbrydelser;2011;19.0;15.0;0.7895
+840;Rebild;14;Andre straffelovsforbrydelser;2012;16.0;11.0;0.6875
+840;Rebild;14;Andre straffelovsforbrydelser;2013;16.0;16.0;1.0
+840;Rebild;14;Andre straffelovsforbrydelser;2014;16.0;13.0;0.8125
+840;Rebild;14;Andre straffelovsforbrydelser;2015;15.0;15.0;1.0
+840;Rebild;14;Andre straffelovsforbrydelser;2016;36.0;28.0;0.7778
+840;Rebild;14;Andre straffelovsforbrydelser;2017;23.0;10.0;0.4348
+840;Rebild;14;Andre straffelovsforbrydelser;2018;22.0;10.0;0.4545
+840;Rebild;14;Andre straffelovsforbrydelser;2019;43.0;34.0;0.7907
+840;Rebild;14;Andre straffelovsforbrydelser;2020;26.0;11.0;0.4231
+840;Rebild;14;Andre straffelovsforbrydelser;2021;22.0;12.0;0.5455
+840;Rebild;14;Andre straffelovsforbrydelser;2022;15.0;10.0;0.6667
+840;Rebild;14;Andre straffelovsforbrydelser;2023;15.0;4.0;0.2667
+840;Rebild;14;Andre straffelovsforbrydelser;2024;9.0;4.0;0.4444
+840;Rebild;14;Andre straffelovsforbrydelser;2025;20.0;3.0;0.15
+840;Rebild;3;Særlove;2007;202.0;84.0;0.4158
+840;Rebild;3;Særlove;2008;174.0;53.0;0.3046
+840;Rebild;3;Særlove;2009;193.0;81.0;0.4197
+840;Rebild;3;Særlove;2010;236.0;110.0;0.4661
+840;Rebild;3;Særlove;2011;393.0;258.0;0.6565
+840;Rebild;3;Særlove;2012;509.0;251.0;0.4931
+840;Rebild;3;Særlove;2013;353.0;229.0;0.6487
+840;Rebild;3;Særlove;2014;431.0;276.0;0.6404
+840;Rebild;3;Særlove;2015;400.0;256.0;0.64
+840;Rebild;3;Særlove;2016;358.0;246.0;0.6872
+840;Rebild;3;Særlove;2017;281.0;140.0;0.4982
+840;Rebild;3;Særlove;2018;440.0;229.0;0.5205
+840;Rebild;3;Særlove;2019;449.0;211.0;0.4699
+840;Rebild;3;Særlove;2020;535.0;316.0;0.5907
+840;Rebild;3;Særlove;2021;482.0;295.0;0.612
+840;Rebild;3;Særlove;2022;410.0;285.0;0.6951
+840;Rebild;3;Særlove;2023;378.0;244.0;0.6455
+840;Rebild;3;Særlove;2024;440.0;260.0;0.5909
+840;Rebild;3;Særlove;2025;427.0;248.0;0.5808
+840;Rebild;TOT;I alt;2007;1322.0;219.0;0.1657
+840;Rebild;TOT;I alt;2008;1561.0;218.0;0.1397
+840;Rebild;TOT;I alt;2009;1500.0;252.0;0.168
+840;Rebild;TOT;I alt;2010;1488.0;256.0;0.172
+840;Rebild;TOT;I alt;2011;1642.0;430.0;0.2619
+840;Rebild;TOT;I alt;2012;1858.0;451.0;0.2427
+840;Rebild;TOT;I alt;2013;1537.0;455.0;0.296
+840;Rebild;TOT;I alt;2014;1424.0;420.0;0.2949
+840;Rebild;TOT;I alt;2015;1324.0;362.0;0.2734
+840;Rebild;TOT;I alt;2016;1297.0;518.0;0.3994
+840;Rebild;TOT;I alt;2017;1115.0;284.0;0.2547
+840;Rebild;TOT;I alt;2018;1161.0;361.0;0.3109
+840;Rebild;TOT;I alt;2019;1152.0;425.0;0.3689
+840;Rebild;TOT;I alt;2020;1195.0;477.0;0.3992
+840;Rebild;TOT;I alt;2021;1043.0;436.0;0.418
+840;Rebild;TOT;I alt;2022;1047.0;418.0;0.3992
+840;Rebild;TOT;I alt;2023;969.0;365.0;0.3767
+840;Rebild;TOT;I alt;2024;1124.0;431.0;0.3835
+840;Rebild;TOT;I alt;2025;1057.0;374.0;0.3538
+846;Mariagerfjord;1;Straffelov i alt;2007;2341.0;487.0;0.208
+846;Mariagerfjord;1;Straffelov i alt;2008;2772.0;390.0;0.1407
+846;Mariagerfjord;1;Straffelov i alt;2009;2961.0;505.0;0.1706
+846;Mariagerfjord;1;Straffelov i alt;2010;2737.0;497.0;0.1816
+846;Mariagerfjord;1;Straffelov i alt;2011;2705.0;461.0;0.1704
+846;Mariagerfjord;1;Straffelov i alt;2012;2234.0;376.0;0.1683
+846;Mariagerfjord;1;Straffelov i alt;2013;2227.0;403.0;0.181
+846;Mariagerfjord;1;Straffelov i alt;2014;2185.0;615.0;0.2815
+846;Mariagerfjord;1;Straffelov i alt;2015;1876.0;408.0;0.2175
+846;Mariagerfjord;1;Straffelov i alt;2016;1719.0;381.0;0.2216
+846;Mariagerfjord;1;Straffelov i alt;2017;1540.0;352.0;0.2286
+846;Mariagerfjord;1;Straffelov i alt;2018;1628.0;435.0;0.2672
+846;Mariagerfjord;1;Straffelov i alt;2019;1525.0;371.0;0.2433
+846;Mariagerfjord;1;Straffelov i alt;2020;1542.0;471.0;0.3054
+846;Mariagerfjord;1;Straffelov i alt;2021;1419.0;499.0;0.3517
+846;Mariagerfjord;1;Straffelov i alt;2022;1303.0;362.0;0.2778
+846;Mariagerfjord;1;Straffelov i alt;2023;1313.0;395.0;0.3008
+846;Mariagerfjord;1;Straffelov i alt;2024;1367.0;401.0;0.2933
+846;Mariagerfjord;1;Straffelov i alt;2025;1412.0;423.0;0.2996
+846;Mariagerfjord;1000;Uoplyst straffelov;2007;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2008;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2009;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2010;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2011;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2012;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2013;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2014;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2015;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2016;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2017;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2018;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2019;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2020;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2021;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2022;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2023;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2024;0.0;0.0;
+846;Mariagerfjord;1000;Uoplyst straffelov;2025;0.0;0.0;
+846;Mariagerfjord;11;Seksualforbrydelser;2007;26.0;15.0;0.5769
+846;Mariagerfjord;11;Seksualforbrydelser;2008;18.0;7.0;0.3889
+846;Mariagerfjord;11;Seksualforbrydelser;2009;17.0;15.0;0.8824
+846;Mariagerfjord;11;Seksualforbrydelser;2010;7.0;5.0;0.7143
+846;Mariagerfjord;11;Seksualforbrydelser;2011;18.0;16.0;0.8889
+846;Mariagerfjord;11;Seksualforbrydelser;2012;13.0;8.0;0.6154
+846;Mariagerfjord;11;Seksualforbrydelser;2013;12.0;10.0;0.8333
+846;Mariagerfjord;11;Seksualforbrydelser;2014;14.0;9.0;0.6429
+846;Mariagerfjord;11;Seksualforbrydelser;2015;7.0;5.0;0.7143
+846;Mariagerfjord;11;Seksualforbrydelser;2016;22.0;13.0;0.5909
+846;Mariagerfjord;11;Seksualforbrydelser;2017;31.0;15.0;0.4839
+846;Mariagerfjord;11;Seksualforbrydelser;2018;21.0;13.0;0.619
+846;Mariagerfjord;11;Seksualforbrydelser;2019;35.0;26.0;0.7429
+846;Mariagerfjord;11;Seksualforbrydelser;2020;28.0;21.0;0.75
+846;Mariagerfjord;11;Seksualforbrydelser;2021;43.0;33.0;0.7674
+846;Mariagerfjord;11;Seksualforbrydelser;2022;35.0;22.0;0.6286
+846;Mariagerfjord;11;Seksualforbrydelser;2023;15.0;13.0;0.8667
+846;Mariagerfjord;11;Seksualforbrydelser;2024;41.0;21.0;0.5122
+846;Mariagerfjord;11;Seksualforbrydelser;2025;42.0;28.0;0.6667
+846;Mariagerfjord;12;Voldsforbrydelser;2007;144.0;120.0;0.8333
+846;Mariagerfjord;12;Voldsforbrydelser;2008;122.0;105.0;0.8607
+846;Mariagerfjord;12;Voldsforbrydelser;2009;128.0;103.0;0.8047
+846;Mariagerfjord;12;Voldsforbrydelser;2010;113.0;93.0;0.823
+846;Mariagerfjord;12;Voldsforbrydelser;2011;114.0;88.0;0.7719
+846;Mariagerfjord;12;Voldsforbrydelser;2012;103.0;91.0;0.8835
+846;Mariagerfjord;12;Voldsforbrydelser;2013;89.0;77.0;0.8652
+846;Mariagerfjord;12;Voldsforbrydelser;2014;60.0;52.0;0.8667
+846;Mariagerfjord;12;Voldsforbrydelser;2015;103.0;81.0;0.7864
+846;Mariagerfjord;12;Voldsforbrydelser;2016;124.0;86.0;0.6935
+846;Mariagerfjord;12;Voldsforbrydelser;2017;142.0;90.0;0.6338
+846;Mariagerfjord;12;Voldsforbrydelser;2018;159.0;103.0;0.6478
+846;Mariagerfjord;12;Voldsforbrydelser;2019;209.0;126.0;0.6029
+846;Mariagerfjord;12;Voldsforbrydelser;2020;249.0;161.0;0.6466
+846;Mariagerfjord;12;Voldsforbrydelser;2021;180.0;108.0;0.6
+846;Mariagerfjord;12;Voldsforbrydelser;2022;208.0;131.0;0.6298
+846;Mariagerfjord;12;Voldsforbrydelser;2023;192.0;109.0;0.5677
+846;Mariagerfjord;12;Voldsforbrydelser;2024;154.0;83.0;0.539
+846;Mariagerfjord;12;Voldsforbrydelser;2025;183.0;74.0;0.4044
+846;Mariagerfjord;13;Ejendomsforbrydelser;2007;2142.0;334.0;0.1559
+846;Mariagerfjord;13;Ejendomsforbrydelser;2008;2597.0;246.0;0.0947
+846;Mariagerfjord;13;Ejendomsforbrydelser;2009;2786.0;366.0;0.1314
+846;Mariagerfjord;13;Ejendomsforbrydelser;2010;2578.0;369.0;0.1431
+846;Mariagerfjord;13;Ejendomsforbrydelser;2011;2531.0;321.0;0.1268
+846;Mariagerfjord;13;Ejendomsforbrydelser;2012;2097.0;259.0;0.1235
+846;Mariagerfjord;13;Ejendomsforbrydelser;2013;2092.0;289.0;0.1381
+846;Mariagerfjord;13;Ejendomsforbrydelser;2014;2091.0;536.0;0.2563
+846;Mariagerfjord;13;Ejendomsforbrydelser;2015;1716.0;279.0;0.1626
+846;Mariagerfjord;13;Ejendomsforbrydelser;2016;1526.0;244.0;0.1599
+846;Mariagerfjord;13;Ejendomsforbrydelser;2017;1330.0;227.0;0.1707
+846;Mariagerfjord;13;Ejendomsforbrydelser;2018;1373.0;267.0;0.1945
+846;Mariagerfjord;13;Ejendomsforbrydelser;2019;1197.0;172.0;0.1437
+846;Mariagerfjord;13;Ejendomsforbrydelser;2020;1217.0;266.0;0.2186
+846;Mariagerfjord;13;Ejendomsforbrydelser;2021;1135.0;322.0;0.2837
+846;Mariagerfjord;13;Ejendomsforbrydelser;2022;1005.0;185.0;0.1841
+846;Mariagerfjord;13;Ejendomsforbrydelser;2023;1068.0;254.0;0.2378
+846;Mariagerfjord;13;Ejendomsforbrydelser;2024;1124.0;266.0;0.2367
+846;Mariagerfjord;13;Ejendomsforbrydelser;2025;1127.0;295.0;0.2618
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2007;29.0;18.0;0.6207
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2008;35.0;32.0;0.9143
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2009;30.0;21.0;0.7
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2010;39.0;30.0;0.7692
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2011;42.0;36.0;0.8571
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2012;21.0;18.0;0.8571
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2013;34.0;27.0;0.7941
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2014;20.0;18.0;0.9
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2015;50.0;43.0;0.86
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2016;47.0;38.0;0.8085
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2017;37.0;20.0;0.5405
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2018;75.0;52.0;0.6933
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2019;84.0;47.0;0.5595
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2020;48.0;23.0;0.4792
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2021;61.0;36.0;0.5902
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2022;55.0;24.0;0.4364
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2023;38.0;19.0;0.5
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2024;48.0;31.0;0.6458
+846;Mariagerfjord;14;Andre straffelovsforbrydelser;2025;60.0;26.0;0.4333
+846;Mariagerfjord;3;Særlove;2007;398.0;188.0;0.4724
+846;Mariagerfjord;3;Særlove;2008;381.0;161.0;0.4226
+846;Mariagerfjord;3;Særlove;2009;455.0;191.0;0.4198
+846;Mariagerfjord;3;Særlove;2010;500.0;224.0;0.448
+846;Mariagerfjord;3;Særlove;2011;729.0;453.0;0.6214
+846;Mariagerfjord;3;Særlove;2012;603.0;448.0;0.743
+846;Mariagerfjord;3;Særlove;2013;570.0;368.0;0.6456
+846;Mariagerfjord;3;Særlove;2014;676.0;444.0;0.6568
+846;Mariagerfjord;3;Særlove;2015;672.0;456.0;0.6786
+846;Mariagerfjord;3;Særlove;2016;580.0;408.0;0.7034
+846;Mariagerfjord;3;Særlove;2017;527.0;246.0;0.4668
+846;Mariagerfjord;3;Særlove;2018;701.0;330.0;0.4708
+846;Mariagerfjord;3;Særlove;2019;614.0;292.0;0.4756
+846;Mariagerfjord;3;Særlove;2020;496.0;274.0;0.5524
+846;Mariagerfjord;3;Særlove;2021;550.0;328.0;0.5964
+846;Mariagerfjord;3;Særlove;2022;653.0;463.0;0.709
+846;Mariagerfjord;3;Særlove;2023;544.0;370.0;0.6801
+846;Mariagerfjord;3;Særlove;2024;597.0;360.0;0.603
+846;Mariagerfjord;3;Særlove;2025;591.0;344.0;0.5821
+846;Mariagerfjord;TOT;I alt;2007;2739.0;675.0;0.2464
+846;Mariagerfjord;TOT;I alt;2008;3153.0;551.0;0.1748
+846;Mariagerfjord;TOT;I alt;2009;3416.0;696.0;0.2037
+846;Mariagerfjord;TOT;I alt;2010;3237.0;721.0;0.2227
+846;Mariagerfjord;TOT;I alt;2011;3434.0;914.0;0.2662
+846;Mariagerfjord;TOT;I alt;2012;2837.0;824.0;0.2904
+846;Mariagerfjord;TOT;I alt;2013;2797.0;771.0;0.2757
+846;Mariagerfjord;TOT;I alt;2014;2861.0;1059.0;0.3702
+846;Mariagerfjord;TOT;I alt;2015;2548.0;864.0;0.3391
+846;Mariagerfjord;TOT;I alt;2016;2299.0;789.0;0.3432
+846;Mariagerfjord;TOT;I alt;2017;2067.0;598.0;0.2893
+846;Mariagerfjord;TOT;I alt;2018;2329.0;765.0;0.3285
+846;Mariagerfjord;TOT;I alt;2019;2139.0;663.0;0.31
+846;Mariagerfjord;TOT;I alt;2020;2038.0;745.0;0.3656
+846;Mariagerfjord;TOT;I alt;2021;1969.0;827.0;0.42
+846;Mariagerfjord;TOT;I alt;2022;1956.0;825.0;0.4218
+846;Mariagerfjord;TOT;I alt;2023;1857.0;765.0;0.412
+846;Mariagerfjord;TOT;I alt;2024;1964.0;761.0;0.3875
+846;Mariagerfjord;TOT;I alt;2025;2003.0;767.0;0.3829
+849;Jammerbugt;1;Straffelov i alt;2007;2067.0;248.0;0.12
+849;Jammerbugt;1;Straffelov i alt;2008;2331.0;321.0;0.1377
+849;Jammerbugt;1;Straffelov i alt;2009;2592.0;386.0;0.1489
+849;Jammerbugt;1;Straffelov i alt;2010;2302.0;353.0;0.1533
+849;Jammerbugt;1;Straffelov i alt;2011;2295.0;390.0;0.1699
+849;Jammerbugt;1;Straffelov i alt;2012;2154.0;324.0;0.1504
+849;Jammerbugt;1;Straffelov i alt;2013;1909.0;317.0;0.1661
+849;Jammerbugt;1;Straffelov i alt;2014;1501.0;321.0;0.2139
+849;Jammerbugt;1;Straffelov i alt;2015;1604.0;394.0;0.2456
+849;Jammerbugt;1;Straffelov i alt;2016;1505.0;445.0;0.2957
+849;Jammerbugt;1;Straffelov i alt;2017;1388.0;259.0;0.1866
+849;Jammerbugt;1;Straffelov i alt;2018;1395.0;314.0;0.2251
+849;Jammerbugt;1;Straffelov i alt;2019;1219.0;345.0;0.283
+849;Jammerbugt;1;Straffelov i alt;2020;1144.0;393.0;0.3435
+849;Jammerbugt;1;Straffelov i alt;2021;1102.0;393.0;0.3566
+849;Jammerbugt;1;Straffelov i alt;2022;994.0;324.0;0.326
+849;Jammerbugt;1;Straffelov i alt;2023;960.0;253.0;0.2635
+849;Jammerbugt;1;Straffelov i alt;2024;1053.0;246.0;0.2336
+849;Jammerbugt;1;Straffelov i alt;2025;1129.0;311.0;0.2755
+849;Jammerbugt;1000;Uoplyst straffelov;2007;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2008;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2009;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2010;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2011;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2012;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2013;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2014;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2015;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2016;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2017;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2018;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2019;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2020;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2021;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2022;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2023;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2024;0.0;0.0;
+849;Jammerbugt;1000;Uoplyst straffelov;2025;0.0;0.0;
+849;Jammerbugt;11;Seksualforbrydelser;2007;16.0;12.0;0.75
+849;Jammerbugt;11;Seksualforbrydelser;2008;16.0;10.0;0.625
+849;Jammerbugt;11;Seksualforbrydelser;2009;16.0;10.0;0.625
+849;Jammerbugt;11;Seksualforbrydelser;2010;16.0;16.0;1.0
+849;Jammerbugt;11;Seksualforbrydelser;2011;21.0;15.0;0.7143
+849;Jammerbugt;11;Seksualforbrydelser;2012;24.0;20.0;0.8333
+849;Jammerbugt;11;Seksualforbrydelser;2013;14.0;11.0;0.7857
+849;Jammerbugt;11;Seksualforbrydelser;2014;12.0;10.0;0.8333
+849;Jammerbugt;11;Seksualforbrydelser;2015;11.0;9.0;0.8182
+849;Jammerbugt;11;Seksualforbrydelser;2016;35.0;29.0;0.8286
+849;Jammerbugt;11;Seksualforbrydelser;2017;33.0;18.0;0.5455
+849;Jammerbugt;11;Seksualforbrydelser;2018;46.0;38.0;0.8261
+849;Jammerbugt;11;Seksualforbrydelser;2019;18.0;7.0;0.3889
+849;Jammerbugt;11;Seksualforbrydelser;2020;44.0;38.0;0.8636
+849;Jammerbugt;11;Seksualforbrydelser;2021;41.0;22.0;0.5366
+849;Jammerbugt;11;Seksualforbrydelser;2022;34.0;25.0;0.7353
+849;Jammerbugt;11;Seksualforbrydelser;2023;26.0;19.0;0.7308
+849;Jammerbugt;11;Seksualforbrydelser;2024;25.0;14.0;0.56
+849;Jammerbugt;11;Seksualforbrydelser;2025;35.0;19.0;0.5429
+849;Jammerbugt;12;Voldsforbrydelser;2007;75.0;63.0;0.84
+849;Jammerbugt;12;Voldsforbrydelser;2008;93.0;73.0;0.7849
+849;Jammerbugt;12;Voldsforbrydelser;2009;84.0;74.0;0.881
+849;Jammerbugt;12;Voldsforbrydelser;2010;111.0;93.0;0.8378
+849;Jammerbugt;12;Voldsforbrydelser;2011;93.0;77.0;0.828
+849;Jammerbugt;12;Voldsforbrydelser;2012;91.0;71.0;0.7802
+849;Jammerbugt;12;Voldsforbrydelser;2013;88.0;68.0;0.7727
+849;Jammerbugt;12;Voldsforbrydelser;2014;78.0;67.0;0.859
+849;Jammerbugt;12;Voldsforbrydelser;2015;105.0;68.0;0.6476
+849;Jammerbugt;12;Voldsforbrydelser;2016;105.0;67.0;0.6381
+849;Jammerbugt;12;Voldsforbrydelser;2017;108.0;64.0;0.5926
+849;Jammerbugt;12;Voldsforbrydelser;2018;151.0;84.0;0.5563
+849;Jammerbugt;12;Voldsforbrydelser;2019;124.0;75.0;0.6048
+849;Jammerbugt;12;Voldsforbrydelser;2020;105.0;66.0;0.6286
+849;Jammerbugt;12;Voldsforbrydelser;2021;98.0;69.0;0.7041
+849;Jammerbugt;12;Voldsforbrydelser;2022;130.0;104.0;0.8
+849;Jammerbugt;12;Voldsforbrydelser;2023;124.0;77.0;0.621
+849;Jammerbugt;12;Voldsforbrydelser;2024;96.0;47.0;0.4896
+849;Jammerbugt;12;Voldsforbrydelser;2025;179.0;95.0;0.5307
+849;Jammerbugt;13;Ejendomsforbrydelser;2007;1963.0;165.0;0.0841
+849;Jammerbugt;13;Ejendomsforbrydelser;2008;2206.0;226.0;0.1024
+849;Jammerbugt;13;Ejendomsforbrydelser;2009;2459.0;276.0;0.1122
+849;Jammerbugt;13;Ejendomsforbrydelser;2010;2132.0;209.0;0.098
+849;Jammerbugt;13;Ejendomsforbrydelser;2011;2160.0;278.0;0.1287
+849;Jammerbugt;13;Ejendomsforbrydelser;2012;2019.0;215.0;0.1065
+849;Jammerbugt;13;Ejendomsforbrydelser;2013;1786.0;218.0;0.1221
+849;Jammerbugt;13;Ejendomsforbrydelser;2014;1392.0;229.0;0.1645
+849;Jammerbugt;13;Ejendomsforbrydelser;2015;1462.0;298.0;0.2038
+849;Jammerbugt;13;Ejendomsforbrydelser;2016;1348.0;337.0;0.25
+849;Jammerbugt;13;Ejendomsforbrydelser;2017;1222.0;161.0;0.1318
+849;Jammerbugt;13;Ejendomsforbrydelser;2018;1144.0;165.0;0.1442
+849;Jammerbugt;13;Ejendomsforbrydelser;2019;1040.0;243.0;0.2337
+849;Jammerbugt;13;Ejendomsforbrydelser;2020;941.0;258.0;0.2742
+849;Jammerbugt;13;Ejendomsforbrydelser;2021;942.0;291.0;0.3089
+849;Jammerbugt;13;Ejendomsforbrydelser;2022;801.0;176.0;0.2197
+849;Jammerbugt;13;Ejendomsforbrydelser;2023;777.0;132.0;0.1699
+849;Jammerbugt;13;Ejendomsforbrydelser;2024;891.0;162.0;0.1818
+849;Jammerbugt;13;Ejendomsforbrydelser;2025;876.0;177.0;0.2021
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2007;13.0;8.0;0.6154
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2008;16.0;12.0;0.75
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2009;33.0;26.0;0.7879
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2010;43.0;35.0;0.814
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2011;21.0;20.0;0.9524
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2012;20.0;18.0;0.9
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2013;21.0;20.0;0.9524
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2014;19.0;15.0;0.7895
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2015;26.0;19.0;0.7308
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2016;17.0;12.0;0.7059
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2017;25.0;16.0;0.64
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2018;54.0;27.0;0.5
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2019;37.0;20.0;0.5405
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2020;54.0;31.0;0.5741
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2021;21.0;11.0;0.5238
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2022;29.0;19.0;0.6552
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2023;33.0;25.0;0.7576
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2024;41.0;23.0;0.561
+849;Jammerbugt;14;Andre straffelovsforbrydelser;2025;39.0;20.0;0.5128
+849;Jammerbugt;3;Særlove;2007;244.0;95.0;0.3893
+849;Jammerbugt;3;Særlove;2008;258.0;104.0;0.4031
+849;Jammerbugt;3;Særlove;2009;247.0;106.0;0.4291
+849;Jammerbugt;3;Særlove;2010;232.0;116.0;0.5
+849;Jammerbugt;3;Særlove;2011;418.0;254.0;0.6077
+849;Jammerbugt;3;Særlove;2012;378.0;276.0;0.7302
+849;Jammerbugt;3;Særlove;2013;474.0;258.0;0.5443
+849;Jammerbugt;3;Særlove;2014;377.0;193.0;0.5119
+849;Jammerbugt;3;Særlove;2015;402.0;233.0;0.5796
+849;Jammerbugt;3;Særlove;2016;446.0;235.0;0.5269
+849;Jammerbugt;3;Særlove;2017;375.0;150.0;0.4
+849;Jammerbugt;3;Særlove;2018;534.0;266.0;0.4981
+849;Jammerbugt;3;Særlove;2019;546.0;227.0;0.4158
+849;Jammerbugt;3;Særlove;2020;453.0;274.0;0.6049
+849;Jammerbugt;3;Særlove;2021;456.0;241.0;0.5285
+849;Jammerbugt;3;Særlove;2022;473.0;303.0;0.6406
+849;Jammerbugt;3;Særlove;2023;461.0;284.0;0.6161
+849;Jammerbugt;3;Særlove;2024;472.0;242.0;0.5127
+849;Jammerbugt;3;Særlove;2025;447.0;228.0;0.5101
+849;Jammerbugt;TOT;I alt;2007;2311.0;343.0;0.1484
+849;Jammerbugt;TOT;I alt;2008;2589.0;425.0;0.1642
+849;Jammerbugt;TOT;I alt;2009;2839.0;492.0;0.1733
+849;Jammerbugt;TOT;I alt;2010;2534.0;469.0;0.1851
+849;Jammerbugt;TOT;I alt;2011;2713.0;644.0;0.2374
+849;Jammerbugt;TOT;I alt;2012;2532.0;600.0;0.237
+849;Jammerbugt;TOT;I alt;2013;2383.0;575.0;0.2413
+849;Jammerbugt;TOT;I alt;2014;1878.0;514.0;0.2737
+849;Jammerbugt;TOT;I alt;2015;2006.0;627.0;0.3126
+849;Jammerbugt;TOT;I alt;2016;1951.0;680.0;0.3485
+849;Jammerbugt;TOT;I alt;2017;1763.0;409.0;0.232
+849;Jammerbugt;TOT;I alt;2018;1929.0;580.0;0.3007
+849;Jammerbugt;TOT;I alt;2019;1765.0;572.0;0.3241
+849;Jammerbugt;TOT;I alt;2020;1597.0;667.0;0.4177
+849;Jammerbugt;TOT;I alt;2021;1558.0;634.0;0.4069
+849;Jammerbugt;TOT;I alt;2022;1467.0;627.0;0.4274
+849;Jammerbugt;TOT;I alt;2023;1421.0;537.0;0.3779
+849;Jammerbugt;TOT;I alt;2024;1525.0;488.0;0.32
+849;Jammerbugt;TOT;I alt;2025;1576.0;539.0;0.342
+851;Aalborg;1;Straffelov i alt;2007;15714.0;2815.0;0.1791
+851;Aalborg;1;Straffelov i alt;2008;16716.0;2644.0;0.1582
+851;Aalborg;1;Straffelov i alt;2009;16381.0;2709.0;0.1654
+851;Aalborg;1;Straffelov i alt;2010;15919.0;2709.0;0.1702
+851;Aalborg;1;Straffelov i alt;2011;17850.0;3243.0;0.1817
+851;Aalborg;1;Straffelov i alt;2012;15417.0;2894.0;0.1877
+851;Aalborg;1;Straffelov i alt;2013;15192.0;3018.0;0.1987
+851;Aalborg;1;Straffelov i alt;2014;13613.0;3203.0;0.2353
+851;Aalborg;1;Straffelov i alt;2015;12375.0;3178.0;0.2568
+851;Aalborg;1;Straffelov i alt;2016;11057.0;2884.0;0.2608
+851;Aalborg;1;Straffelov i alt;2017;11509.0;2852.0;0.2478
+851;Aalborg;1;Straffelov i alt;2018;10277.0;2508.0;0.244
+851;Aalborg;1;Straffelov i alt;2019;9949.0;2797.0;0.2811
+851;Aalborg;1;Straffelov i alt;2020;8190.0;2730.0;0.3333
+851;Aalborg;1;Straffelov i alt;2021;7344.0;2402.0;0.3271
+851;Aalborg;1;Straffelov i alt;2022;9808.0;3446.0;0.3513
+851;Aalborg;1;Straffelov i alt;2023;10679.0;3505.0;0.3282
+851;Aalborg;1;Straffelov i alt;2024;9890.0;3383.0;0.3421
+851;Aalborg;1;Straffelov i alt;2025;9265.0;2825.0;0.3049
+851;Aalborg;1000;Uoplyst straffelov;2007;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2008;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2009;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2010;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2011;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2012;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2013;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2014;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2015;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2016;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2017;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2018;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2019;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2020;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2021;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2022;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2023;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2024;0.0;0.0;
+851;Aalborg;1000;Uoplyst straffelov;2025;0.0;0.0;
+851;Aalborg;11;Seksualforbrydelser;2007;102.0;69.0;0.6765
+851;Aalborg;11;Seksualforbrydelser;2008;90.0;64.0;0.7111
+851;Aalborg;11;Seksualforbrydelser;2009;90.0;61.0;0.6778
+851;Aalborg;11;Seksualforbrydelser;2010;60.0;43.0;0.7167
+851;Aalborg;11;Seksualforbrydelser;2011;106.0;77.0;0.7264
+851;Aalborg;11;Seksualforbrydelser;2012;107.0;69.0;0.6449
+851;Aalborg;11;Seksualforbrydelser;2013;61.0;47.0;0.7705
+851;Aalborg;11;Seksualforbrydelser;2014;122.0;94.0;0.7705
+851;Aalborg;11;Seksualforbrydelser;2015;88.0;56.0;0.6364
+851;Aalborg;11;Seksualforbrydelser;2016;98.0;46.0;0.4694
+851;Aalborg;11;Seksualforbrydelser;2017;198.0;120.0;0.6061
+851;Aalborg;11;Seksualforbrydelser;2018;235.0;159.0;0.6766
+851;Aalborg;11;Seksualforbrydelser;2019;198.0;127.0;0.6414
+851;Aalborg;11;Seksualforbrydelser;2020;196.0;124.0;0.6327
+851;Aalborg;11;Seksualforbrydelser;2021;169.0;103.0;0.6095
+851;Aalborg;11;Seksualforbrydelser;2022;174.0;111.0;0.6379
+851;Aalborg;11;Seksualforbrydelser;2023;254.0;188.0;0.7402
+851;Aalborg;11;Seksualforbrydelser;2024;247.0;112.0;0.4534
+851;Aalborg;11;Seksualforbrydelser;2025;260.0;154.0;0.5923
+851;Aalborg;12;Voldsforbrydelser;2007;655.0;512.0;0.7817
+851;Aalborg;12;Voldsforbrydelser;2008;656.0;485.0;0.7393
+851;Aalborg;12;Voldsforbrydelser;2009;634.0;412.0;0.6498
+851;Aalborg;12;Voldsforbrydelser;2010;705.0;468.0;0.6638
+851;Aalborg;12;Voldsforbrydelser;2011;707.0;449.0;0.6351
+851;Aalborg;12;Voldsforbrydelser;2012;615.0;432.0;0.7024
+851;Aalborg;12;Voldsforbrydelser;2013;628.0;462.0;0.7357
+851;Aalborg;12;Voldsforbrydelser;2014;611.0;434.0;0.7103
+851;Aalborg;12;Voldsforbrydelser;2015;605.0;402.0;0.6645
+851;Aalborg;12;Voldsforbrydelser;2016;706.0;389.0;0.551
+851;Aalborg;12;Voldsforbrydelser;2017;953.0;500.0;0.5247
+851;Aalborg;12;Voldsforbrydelser;2018;916.0;572.0;0.6245
+851;Aalborg;12;Voldsforbrydelser;2019;845.0;534.0;0.632
+851;Aalborg;12;Voldsforbrydelser;2020;758.0;478.0;0.6306
+851;Aalborg;12;Voldsforbrydelser;2021;743.0;494.0;0.6649
+851;Aalborg;12;Voldsforbrydelser;2022;1301.0;972.0;0.7471
+851;Aalborg;12;Voldsforbrydelser;2023;846.0;506.0;0.5981
+851;Aalborg;12;Voldsforbrydelser;2024;824.0;509.0;0.6177
+851;Aalborg;12;Voldsforbrydelser;2025;943.0;573.0;0.6076
+851;Aalborg;13;Ejendomsforbrydelser;2007;14797.0;2096.0;0.1417
+851;Aalborg;13;Ejendomsforbrydelser;2008;15780.0;1941.0;0.123
+851;Aalborg;13;Ejendomsforbrydelser;2009;15420.0;2056.0;0.1333
+851;Aalborg;13;Ejendomsforbrydelser;2010;14938.0;2021.0;0.1353
+851;Aalborg;13;Ejendomsforbrydelser;2011;16813.0;2529.0;0.1504
+851;Aalborg;13;Ejendomsforbrydelser;2012;14492.0;2206.0;0.1522
+851;Aalborg;13;Ejendomsforbrydelser;2013;14296.0;2338.0;0.1635
+851;Aalborg;13;Ejendomsforbrydelser;2014;12706.0;2530.0;0.1991
+851;Aalborg;13;Ejendomsforbrydelser;2015;11492.0;2564.0;0.2231
+851;Aalborg;13;Ejendomsforbrydelser;2016;10083.0;2337.0;0.2318
+851;Aalborg;13;Ejendomsforbrydelser;2017;10063.0;2048.0;0.2035
+851;Aalborg;13;Ejendomsforbrydelser;2018;8841.0;1605.0;0.1815
+851;Aalborg;13;Ejendomsforbrydelser;2019;8634.0;1955.0;0.2264
+851;Aalborg;13;Ejendomsforbrydelser;2020;6921.0;1936.0;0.2797
+851;Aalborg;13;Ejendomsforbrydelser;2021;6166.0;1654.0;0.2682
+851;Aalborg;13;Ejendomsforbrydelser;2022;8074.0;2210.0;0.2737
+851;Aalborg;13;Ejendomsforbrydelser;2023;9326.0;2637.0;0.2828
+851;Aalborg;13;Ejendomsforbrydelser;2024;8519.0;2568.0;0.3014
+851;Aalborg;13;Ejendomsforbrydelser;2025;7736.0;1917.0;0.2478
+851;Aalborg;14;Andre straffelovsforbrydelser;2007;160.0;138.0;0.8625
+851;Aalborg;14;Andre straffelovsforbrydelser;2008;190.0;154.0;0.8105
+851;Aalborg;14;Andre straffelovsforbrydelser;2009;237.0;180.0;0.7595
+851;Aalborg;14;Andre straffelovsforbrydelser;2010;216.0;177.0;0.8194
+851;Aalborg;14;Andre straffelovsforbrydelser;2011;224.0;188.0;0.8393
+851;Aalborg;14;Andre straffelovsforbrydelser;2012;203.0;187.0;0.9212
+851;Aalborg;14;Andre straffelovsforbrydelser;2013;207.0;171.0;0.8261
+851;Aalborg;14;Andre straffelovsforbrydelser;2014;174.0;145.0;0.8333
+851;Aalborg;14;Andre straffelovsforbrydelser;2015;190.0;156.0;0.8211
+851;Aalborg;14;Andre straffelovsforbrydelser;2016;170.0;112.0;0.6588
+851;Aalborg;14;Andre straffelovsforbrydelser;2017;295.0;184.0;0.6237
+851;Aalborg;14;Andre straffelovsforbrydelser;2018;285.0;172.0;0.6035
+851;Aalborg;14;Andre straffelovsforbrydelser;2019;272.0;181.0;0.6654
+851;Aalborg;14;Andre straffelovsforbrydelser;2020;315.0;192.0;0.6095
+851;Aalborg;14;Andre straffelovsforbrydelser;2021;266.0;151.0;0.5677
+851;Aalborg;14;Andre straffelovsforbrydelser;2022;259.0;153.0;0.5907
+851;Aalborg;14;Andre straffelovsforbrydelser;2023;253.0;174.0;0.6877
+851;Aalborg;14;Andre straffelovsforbrydelser;2024;300.0;194.0;0.6467
+851;Aalborg;14;Andre straffelovsforbrydelser;2025;326.0;181.0;0.5552
+851;Aalborg;3;Særlove;2007;2492.0;1142.0;0.4583
+851;Aalborg;3;Særlove;2008;2421.0;1182.0;0.4882
+851;Aalborg;3;Særlove;2009;2720.0;1302.0;0.4787
+851;Aalborg;3;Særlove;2010;3157.0;1533.0;0.4856
+851;Aalborg;3;Særlove;2011;3874.0;2728.0;0.7042
+851;Aalborg;3;Særlove;2012;4144.0;2917.0;0.7039
+851;Aalborg;3;Særlove;2013;5092.0;3578.0;0.7027
+851;Aalborg;3;Særlove;2014;5119.0;3714.0;0.7255
+851;Aalborg;3;Særlove;2015;4446.0;3106.0;0.6986
+851;Aalborg;3;Særlove;2016;5024.0;3476.0;0.6919
+851;Aalborg;3;Særlove;2017;5643.0;2843.0;0.5038
+851;Aalborg;3;Særlove;2018;5562.0;3379.0;0.6075
+851;Aalborg;3;Særlove;2019;5507.0;3130.0;0.5684
+851;Aalborg;3;Særlove;2020;3783.0;2339.0;0.6183
+851;Aalborg;3;Særlove;2021;3946.0;2388.0;0.6052
+851;Aalborg;3;Særlove;2022;5135.0;3337.0;0.6499
+851;Aalborg;3;Særlove;2023;4671.0;3126.0;0.6692
+851;Aalborg;3;Særlove;2024;5599.0;3282.0;0.5862
+851;Aalborg;3;Særlove;2025;4851.0;2777.0;0.5725
+851;Aalborg;TOT;I alt;2007;18206.0;3957.0;0.2173
+851;Aalborg;TOT;I alt;2008;19137.0;3826.0;0.1999
+851;Aalborg;TOT;I alt;2009;19101.0;4011.0;0.21
+851;Aalborg;TOT;I alt;2010;19076.0;4242.0;0.2224
+851;Aalborg;TOT;I alt;2011;21724.0;5971.0;0.2749
+851;Aalborg;TOT;I alt;2012;19561.0;5811.0;0.2971
+851;Aalborg;TOT;I alt;2013;20284.0;6596.0;0.3252
+851;Aalborg;TOT;I alt;2014;18732.0;6917.0;0.3693
+851;Aalborg;TOT;I alt;2015;16821.0;6284.0;0.3736
+851;Aalborg;TOT;I alt;2016;16081.0;6360.0;0.3955
+851;Aalborg;TOT;I alt;2017;17152.0;5695.0;0.332
+851;Aalborg;TOT;I alt;2018;15839.0;5887.0;0.3717
+851;Aalborg;TOT;I alt;2019;15456.0;5927.0;0.3835
+851;Aalborg;TOT;I alt;2020;11973.0;5069.0;0.4234
+851;Aalborg;TOT;I alt;2021;11290.0;4790.0;0.4243
+851;Aalborg;TOT;I alt;2022;14943.0;6783.0;0.4539
+851;Aalborg;TOT;I alt;2023;15350.0;6631.0;0.432
+851;Aalborg;TOT;I alt;2024;15489.0;6665.0;0.4303
+851;Aalborg;TOT;I alt;2025;14116.0;5602.0;0.3969
+860;Hjørring;1;Straffelov i alt;2007;4552.0;971.0;0.2133
+860;Hjørring;1;Straffelov i alt;2008;4364.0;745.0;0.1707
+860;Hjørring;1;Straffelov i alt;2009;4404.0;771.0;0.1751
+860;Hjørring;1;Straffelov i alt;2010;3849.0;816.0;0.212
+860;Hjørring;1;Straffelov i alt;2011;3814.0;814.0;0.2134
+860;Hjørring;1;Straffelov i alt;2012;3065.0;766.0;0.2499
+860;Hjørring;1;Straffelov i alt;2013;3006.0;623.0;0.2073
+860;Hjørring;1;Straffelov i alt;2014;2611.0;775.0;0.2968
+860;Hjørring;1;Straffelov i alt;2015;3173.0;929.0;0.2928
+860;Hjørring;1;Straffelov i alt;2016;3171.0;1147.0;0.3617
+860;Hjørring;1;Straffelov i alt;2017;3461.0;1308.0;0.3779
+860;Hjørring;1;Straffelov i alt;2018;2592.0;889.0;0.343
+860;Hjørring;1;Straffelov i alt;2019;2288.0;687.0;0.3003
+860;Hjørring;1;Straffelov i alt;2020;1769.0;591.0;0.3341
+860;Hjørring;1;Straffelov i alt;2021;1664.0;649.0;0.39
+860;Hjørring;1;Straffelov i alt;2022;2158.0;872.0;0.4041
+860;Hjørring;1;Straffelov i alt;2023;2065.0;798.0;0.3864
+860;Hjørring;1;Straffelov i alt;2024;2168.0;739.0;0.3409
+860;Hjørring;1;Straffelov i alt;2025;2092.0;830.0;0.3967
+860;Hjørring;1000;Uoplyst straffelov;2007;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2008;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2009;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2010;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2011;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2012;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2013;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2014;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2015;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2016;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2017;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2018;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2019;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2020;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2021;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2022;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2023;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2024;0.0;0.0;
+860;Hjørring;1000;Uoplyst straffelov;2025;0.0;0.0;
+860;Hjørring;11;Seksualforbrydelser;2007;37.0;28.0;0.7568
+860;Hjørring;11;Seksualforbrydelser;2008;38.0;25.0;0.6579
+860;Hjørring;11;Seksualforbrydelser;2009;29.0;25.0;0.8621
+860;Hjørring;11;Seksualforbrydelser;2010;43.0;33.0;0.7674
+860;Hjørring;11;Seksualforbrydelser;2011;8.0;6.0;0.75
+860;Hjørring;11;Seksualforbrydelser;2012;35.0;32.0;0.9143
+860;Hjørring;11;Seksualforbrydelser;2013;19.0;18.0;0.9474
+860;Hjørring;11;Seksualforbrydelser;2014;29.0;20.0;0.6897
+860;Hjørring;11;Seksualforbrydelser;2015;31.0;23.0;0.7419
+860;Hjørring;11;Seksualforbrydelser;2016;38.0;21.0;0.5526
+860;Hjørring;11;Seksualforbrydelser;2017;63.0;44.0;0.6984
+860;Hjørring;11;Seksualforbrydelser;2018;182.0;167.0;0.9176
+860;Hjørring;11;Seksualforbrydelser;2019;53.0;39.0;0.7358
+860;Hjørring;11;Seksualforbrydelser;2020;51.0;40.0;0.7843
+860;Hjørring;11;Seksualforbrydelser;2021;51.0;39.0;0.7647
+860;Hjørring;11;Seksualforbrydelser;2022;54.0;42.0;0.7778
+860;Hjørring;11;Seksualforbrydelser;2023;75.0;39.0;0.52
+860;Hjørring;11;Seksualforbrydelser;2024;67.0;50.0;0.7463
+860;Hjørring;11;Seksualforbrydelser;2025;74.0;55.0;0.7432
+860;Hjørring;12;Voldsforbrydelser;2007;234.0;184.0;0.7863
+860;Hjørring;12;Voldsforbrydelser;2008;181.0;136.0;0.7514
+860;Hjørring;12;Voldsforbrydelser;2009;153.0;121.0;0.7908
+860;Hjørring;12;Voldsforbrydelser;2010;202.0;161.0;0.797
+860;Hjørring;12;Voldsforbrydelser;2011;185.0;146.0;0.7892
+860;Hjørring;12;Voldsforbrydelser;2012;218.0;189.0;0.867
+860;Hjørring;12;Voldsforbrydelser;2013;174.0;145.0;0.8333
+860;Hjørring;12;Voldsforbrydelser;2014;172.0;148.0;0.8605
+860;Hjørring;12;Voldsforbrydelser;2015;170.0;143.0;0.8412
+860;Hjørring;12;Voldsforbrydelser;2016;177.0;135.0;0.7627
+860;Hjørring;12;Voldsforbrydelser;2017;229.0;145.0;0.6332
+860;Hjørring;12;Voldsforbrydelser;2018;222.0;134.0;0.6036
+860;Hjørring;12;Voldsforbrydelser;2019;141.0;100.0;0.7092
+860;Hjørring;12;Voldsforbrydelser;2020;180.0;129.0;0.7167
+860;Hjørring;12;Voldsforbrydelser;2021;183.0;133.0;0.7268
+860;Hjørring;12;Voldsforbrydelser;2022;280.0;179.0;0.6393
+860;Hjørring;12;Voldsforbrydelser;2023;269.0;194.0;0.7212
+860;Hjørring;12;Voldsforbrydelser;2024;227.0;144.0;0.6344
+860;Hjørring;12;Voldsforbrydelser;2025;290.0;184.0;0.6345
+860;Hjørring;13;Ejendomsforbrydelser;2007;4231.0;719.0;0.1699
+860;Hjørring;13;Ejendomsforbrydelser;2008;4107.0;552.0;0.1344
+860;Hjørring;13;Ejendomsforbrydelser;2009;4163.0;573.0;0.1376
+860;Hjørring;13;Ejendomsforbrydelser;2010;3538.0;565.0;0.1597
+860;Hjørring;13;Ejendomsforbrydelser;2011;3587.0;629.0;0.1754
+860;Hjørring;13;Ejendomsforbrydelser;2012;2742.0;488.0;0.178
+860;Hjørring;13;Ejendomsforbrydelser;2013;2749.0;397.0;0.1444
+860;Hjørring;13;Ejendomsforbrydelser;2014;2360.0;561.0;0.2377
+860;Hjørring;13;Ejendomsforbrydelser;2015;2915.0;716.0;0.2456
+860;Hjørring;13;Ejendomsforbrydelser;2016;2886.0;938.0;0.325
+860;Hjørring;13;Ejendomsforbrydelser;2017;3084.0;1060.0;0.3437
+860;Hjørring;13;Ejendomsforbrydelser;2018;2129.0;554.0;0.2602
+860;Hjørring;13;Ejendomsforbrydelser;2019;2011.0;510.0;0.2536
+860;Hjørring;13;Ejendomsforbrydelser;2020;1463.0;377.0;0.2577
+860;Hjørring;13;Ejendomsforbrydelser;2021;1356.0;436.0;0.3215
+860;Hjørring;13;Ejendomsforbrydelser;2022;1736.0;588.0;0.3387
+860;Hjørring;13;Ejendomsforbrydelser;2023;1632.0;502.0;0.3076
+860;Hjørring;13;Ejendomsforbrydelser;2024;1791.0;506.0;0.2825
+860;Hjørring;13;Ejendomsforbrydelser;2025;1573.0;488.0;0.3102
+860;Hjørring;14;Andre straffelovsforbrydelser;2007;50.0;40.0;0.8
+860;Hjørring;14;Andre straffelovsforbrydelser;2008;38.0;32.0;0.8421
+860;Hjørring;14;Andre straffelovsforbrydelser;2009;59.0;52.0;0.8814
+860;Hjørring;14;Andre straffelovsforbrydelser;2010;66.0;57.0;0.8636
+860;Hjørring;14;Andre straffelovsforbrydelser;2011;34.0;33.0;0.9706
+860;Hjørring;14;Andre straffelovsforbrydelser;2012;70.0;57.0;0.8143
+860;Hjørring;14;Andre straffelovsforbrydelser;2013;64.0;63.0;0.9844
+860;Hjørring;14;Andre straffelovsforbrydelser;2014;50.0;46.0;0.92
+860;Hjørring;14;Andre straffelovsforbrydelser;2015;57.0;47.0;0.8246
+860;Hjørring;14;Andre straffelovsforbrydelser;2016;70.0;53.0;0.7571
+860;Hjørring;14;Andre straffelovsforbrydelser;2017;85.0;59.0;0.6941
+860;Hjørring;14;Andre straffelovsforbrydelser;2018;59.0;34.0;0.5763
+860;Hjørring;14;Andre straffelovsforbrydelser;2019;83.0;38.0;0.4578
+860;Hjørring;14;Andre straffelovsforbrydelser;2020;75.0;45.0;0.6
+860;Hjørring;14;Andre straffelovsforbrydelser;2021;74.0;41.0;0.5541
+860;Hjørring;14;Andre straffelovsforbrydelser;2022;88.0;63.0;0.7159
+860;Hjørring;14;Andre straffelovsforbrydelser;2023;89.0;63.0;0.7079
+860;Hjørring;14;Andre straffelovsforbrydelser;2024;83.0;39.0;0.4699
+860;Hjørring;14;Andre straffelovsforbrydelser;2025;155.0;103.0;0.6645
+860;Hjørring;3;Særlove;2007;632.0;326.0;0.5158
+860;Hjørring;3;Særlove;2008;520.0;241.0;0.4635
+860;Hjørring;3;Særlove;2009;570.0;284.0;0.4982
+860;Hjørring;3;Særlove;2010;801.0;474.0;0.5918
+860;Hjørring;3;Særlove;2011;1159.0;769.0;0.6635
+860;Hjørring;3;Særlove;2012;1198.0;943.0;0.7871
+860;Hjørring;3;Særlove;2013;1327.0;974.0;0.734
+860;Hjørring;3;Særlove;2014;1117.0;786.0;0.7037
+860;Hjørring;3;Særlove;2015;1062.0;633.0;0.596
+860;Hjørring;3;Særlove;2016;935.0;616.0;0.6588
+860;Hjørring;3;Særlove;2017;1143.0;727.0;0.636
+860;Hjørring;3;Særlove;2018;954.0;527.0;0.5524
+860;Hjørring;3;Særlove;2019;988.0;553.0;0.5597
+860;Hjørring;3;Særlove;2020;911.0;612.0;0.6718
+860;Hjørring;3;Særlove;2021;959.0;560.0;0.5839
+860;Hjørring;3;Særlove;2022;1119.0;751.0;0.6711
+860;Hjørring;3;Særlove;2023;997.0;673.0;0.675
+860;Hjørring;3;Særlove;2024;940.0;611.0;0.65
+860;Hjørring;3;Særlove;2025;990.0;614.0;0.6202
+860;Hjørring;TOT;I alt;2007;5184.0;1297.0;0.2502
+860;Hjørring;TOT;I alt;2008;4884.0;986.0;0.2019
+860;Hjørring;TOT;I alt;2009;4974.0;1055.0;0.2121
+860;Hjørring;TOT;I alt;2010;4650.0;1290.0;0.2774
+860;Hjørring;TOT;I alt;2011;4973.0;1583.0;0.3183
+860;Hjørring;TOT;I alt;2012;4263.0;1709.0;0.4009
+860;Hjørring;TOT;I alt;2013;4333.0;1597.0;0.3686
+860;Hjørring;TOT;I alt;2014;3728.0;1561.0;0.4187
+860;Hjørring;TOT;I alt;2015;4235.0;1562.0;0.3688
+860;Hjørring;TOT;I alt;2016;4106.0;1763.0;0.4294
+860;Hjørring;TOT;I alt;2017;4604.0;2035.0;0.442
+860;Hjørring;TOT;I alt;2018;3546.0;1416.0;0.3993
+860;Hjørring;TOT;I alt;2019;3276.0;1240.0;0.3785
+860;Hjørring;TOT;I alt;2020;2680.0;1203.0;0.4489
+860;Hjørring;TOT;I alt;2021;2623.0;1209.0;0.4609
+860;Hjørring;TOT;I alt;2022;3277.0;1623.0;0.4953
+860;Hjørring;TOT;I alt;2023;3062.0;1471.0;0.4804
+860;Hjørring;TOT;I alt;2024;3108.0;1350.0;0.4344
+860;Hjørring;TOT;I alt;2025;3082.0;1444.0;0.4685
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2007;34639.0;6041.0;0.1744
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2008;36899.0;5591.0;0.1515
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2009;37190.0;6011.0;0.1616
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2010;34631.0;5894.0;0.1702
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2011;36624.0;6652.0;0.1816
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2012;31332.0;6034.0;0.1926
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2013;30754.0;6132.0;0.1994
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2014;26955.0;6502.0;0.2412
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2015;26098.0;6620.0;0.2537
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2016;24460.0;6880.0;0.2813
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2017;24962.0;6639.0;0.266
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2018;22941.0;6818.0;0.2972
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2019;20592.0;5745.0;0.279
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2020;17671.0;5818.0;0.3292
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2021;16505.0;5791.0;0.3509
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2022;19033.0;6469.0;0.3399
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2023;20876.0;7578.0;0.363
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2024;19864.0;6485.0;0.3265
+KREDS;Nordjyllands Politikreds;1;Straffelov i alt;2025;18664.0;5576.0;0.2988
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2007;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2008;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2009;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2010;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2011;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2012;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2013;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2014;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2015;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2016;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2017;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2018;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2019;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2020;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2021;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2022;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2023;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2024;0.0;0.0;
+KREDS;Nordjyllands Politikreds;1000;Uoplyst straffelov;2025;0.0;0.0;
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2007;249.0;173.0;0.6948
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2008;217.0;140.0;0.6452
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2009;213.0;152.0;0.7136
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2010;237.0;194.0;0.8186
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2011;222.0;166.0;0.7477
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2012;245.0;186.0;0.7592
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2013;165.0;137.0;0.8303
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2014;252.0;198.0;0.7857
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2015;206.0;147.0;0.7136
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2016;305.0;183.0;0.6
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2017;463.0;289.0;0.6242
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2018;674.0;529.0;0.7849
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2019;457.0;306.0;0.6696
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2020;464.0;329.0;0.7091
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2021;446.0;296.0;0.6637
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2022;428.0;291.0;0.6799
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2023;530.0;369.0;0.6962
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2024;591.0;348.0;0.5888
+KREDS;Nordjyllands Politikreds;11;Seksualforbrydelser;2025;576.0;360.0;0.625
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2007;1530.0;1248.0;0.8157
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2008;1417.0;1081.0;0.7629
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2009;1410.0;1042.0;0.739
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2010;1541.0;1140.0;0.7398
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2011;1512.0;1116.0;0.7381
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2012;1416.0;1103.0;0.779
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2013;1320.0;1047.0;0.7932
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2014;1249.0;978.0;0.783
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2015;1346.0;994.0;0.7385
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2016;1574.0;1026.0;0.6518
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2017;1984.0;1159.0;0.5842
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2018;1953.0;1214.0;0.6216
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2019;1874.0;1175.0;0.627
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2020;1861.0;1230.0;0.6609
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2021;1661.0;1126.0;0.6779
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2022;2483.0;1744.0;0.7024
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2023;1963.0;1210.0;0.6164
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2024;1920.0;1133.0;0.5901
+KREDS;Nordjyllands Politikreds;12;Voldsforbrydelser;2025;2221.0;1247.0;0.5615
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2007;32501.0;4324.0;0.133
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2008;34876.0;4050.0;0.1161
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2009;35064.0;4428.0;0.1263
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2010;32336.0;4133.0;0.1278
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2011;34403.0;4950.0;0.1439
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2012;29230.0;4350.0;0.1488
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2013;28812.0;4548.0;0.1579
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2014;25058.0;4986.0;0.199
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2015;24119.0;5124.0;0.2124
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2016;22144.0;5354.0;0.2418
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2017;21927.0;4814.0;0.2195
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2018;19641.0;4668.0;0.2377
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2019;17578.0;3847.0;0.2189
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2020;14654.0;3851.0;0.2628
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2021;13810.0;4015.0;0.2907
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2022;15517.0;4062.0;0.2618
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2023;17800.0;5616.0;0.3155
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2024;16693.0;4616.0;0.2765
+KREDS;Nordjyllands Politikreds;13;Ejendomsforbrydelser;2025;15107.0;3557.0;0.2355
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2007;359.0;296.0;0.8245
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2008;389.0;320.0;0.8226
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2009;503.0;389.0;0.7734
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2010;517.0;427.0;0.8259
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2011;487.0;420.0;0.8624
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2012;441.0;395.0;0.8957
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2013;457.0;400.0;0.8753
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2014;396.0;340.0;0.8586
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2015;427.0;355.0;0.8314
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2016;437.0;317.0;0.7254
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2017;588.0;377.0;0.6412
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2018;673.0;407.0;0.6048
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2019;683.0;417.0;0.6105
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2020;692.0;408.0;0.5896
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2021;588.0;354.0;0.602
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2022;605.0;372.0;0.6149
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2023;583.0;383.0;0.6569
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2024;660.0;388.0;0.5879
+KREDS;Nordjyllands Politikreds;14;Andre straffelovsforbrydelser;2025;760.0;412.0;0.5421
+KREDS;Nordjyllands Politikreds;3;Særlove;2007;5188.0;2463.0;0.4747
+KREDS;Nordjyllands Politikreds;3;Særlove;2008;4868.0;2256.0;0.4634
+KREDS;Nordjyllands Politikreds;3;Særlove;2009;5689.0;2715.0;0.4772
+KREDS;Nordjyllands Politikreds;3;Særlove;2010;6324.0;3267.0;0.5166
+KREDS;Nordjyllands Politikreds;3;Særlove;2011;8570.0;5883.0;0.6865
+KREDS;Nordjyllands Politikreds;3;Særlove;2012;8590.0;6179.0;0.7193
+KREDS;Nordjyllands Politikreds;3;Særlove;2013;9629.0;6601.0;0.6855
+KREDS;Nordjyllands Politikreds;3;Særlove;2014;9556.0;6638.0;0.6946
+KREDS;Nordjyllands Politikreds;3;Særlove;2015;8705.0;5713.0;0.6563
+KREDS;Nordjyllands Politikreds;3;Særlove;2016;9168.0;6135.0;0.6692
+KREDS;Nordjyllands Politikreds;3;Særlove;2017;9873.0;5010.0;0.5074
+KREDS;Nordjyllands Politikreds;3;Særlove;2018;10365.0;5859.0;0.5653
+KREDS;Nordjyllands Politikreds;3;Særlove;2019;10260.0;5446.0;0.5308
+KREDS;Nordjyllands Politikreds;3;Særlove;2020;7952.0;4803.0;0.604
+KREDS;Nordjyllands Politikreds;3;Særlove;2021;8473.0;4994.0;0.5894
+KREDS;Nordjyllands Politikreds;3;Særlove;2022;9936.0;6537.0;0.6579
+KREDS;Nordjyllands Politikreds;3;Særlove;2023;9115.0;5992.0;0.6574
+KREDS;Nordjyllands Politikreds;3;Særlove;2024;10044.0;5962.0;0.5936
+KREDS;Nordjyllands Politikreds;3;Særlove;2025;9541.0;5469.0;0.5732
+KREDS;Nordjyllands Politikreds;TOT;I alt;2007;39827.0;8504.0;0.2135
+KREDS;Nordjyllands Politikreds;TOT;I alt;2008;41767.0;7847.0;0.1879
+KREDS;Nordjyllands Politikreds;TOT;I alt;2009;42879.0;8726.0;0.2035
+KREDS;Nordjyllands Politikreds;TOT;I alt;2010;40955.0;9161.0;0.2237
+KREDS;Nordjyllands Politikreds;TOT;I alt;2011;45194.0;12535.0;0.2774
+KREDS;Nordjyllands Politikreds;TOT;I alt;2012;39922.0;12213.0;0.3059
+KREDS;Nordjyllands Politikreds;TOT;I alt;2013;40383.0;12733.0;0.3153
+KREDS;Nordjyllands Politikreds;TOT;I alt;2014;36511.0;13140.0;0.3599
+KREDS;Nordjyllands Politikreds;TOT;I alt;2015;34803.0;12333.0;0.3544
+KREDS;Nordjyllands Politikreds;TOT;I alt;2016;33628.0;13015.0;0.387
+KREDS;Nordjyllands Politikreds;TOT;I alt;2017;34835.0;11649.0;0.3344
+KREDS;Nordjyllands Politikreds;TOT;I alt;2018;33306.0;12677.0;0.3806
+KREDS;Nordjyllands Politikreds;TOT;I alt;2019;30852.0;11191.0;0.3627
+KREDS;Nordjyllands Politikreds;TOT;I alt;2020;25623.0;10621.0;0.4145
+KREDS;Nordjyllands Politikreds;TOT;I alt;2021;24978.0;10785.0;0.4318
+KREDS;Nordjyllands Politikreds;TOT;I alt;2022;28969.0;13006.0;0.449
+KREDS;Nordjyllands Politikreds;TOT;I alt;2023;29991.0;13570.0;0.4525
+KREDS;Nordjyllands Politikreds;TOT;I alt;2024;29908.0;12447.0;0.4162
+KREDS;Nordjyllands Politikreds;TOT;I alt;2025;28205.0;11045.0;0.3916

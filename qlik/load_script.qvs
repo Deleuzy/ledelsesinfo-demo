@@ -1,0 +1,56 @@
+// Qlik Sense load script: Nordjyllands Politikreds, anmeldte forbrydelser.
+// Læg CSV-filerne fra output/ i en dataforbindelse kaldet 'ledelsesinfo'.
+// Skrevet i hånden; endnu IKKE kørt i Qlik Sense.
+
+SET ThousandSep='.';
+SET DecimalSep=',';
+SET DateFormat='YYYY-MM-DD';
+
+Anmeldelser:
+LOAD
+    omraade        AS OmraadeKode,
+    omraade_navn   AS Omraade,
+    overtraed      AS TypeKode,
+    type_navn      AS Type,
+    tid            AS Kvartal,
+    Date#(kvartal_start, 'YYYY-MM-DD') AS KvartalStart,
+    indhold        AS Anmeldelser,
+    If(Match(omraade, '851','810','813','860','849','825','846','840','820'), 1, 0) AS IKreds
+FROM [lib://ledelsesinfo/anmeldelser_kvartal.csv]
+(txt, utf8, embedded labels, delimiter is ';');
+
+Sigtelser:
+LOAD
+    omraade        AS S_OmraadeKode,
+    overtraed      AS S_TypeKode,
+    tid            AS S_Aar,
+    ANM            AS AnmeldtAar,
+    SIG            AS MedSigtelse
+FROM [lib://ledelsesinfo/sigtelser_aar.csv]
+(txt, utf8, embedded labels, delimiter is ';');
+
+Prognose:
+LOAD
+    type           AS P_Type,
+    kvartal        AS P_Kvartal,
+    metode         AS PrognoseMetode,
+    prognose       AS Prognose,
+    nedre          AS PrognoseNedre,
+    "øvre"         AS PrognoseOevre
+FROM [lib://ledelsesinfo/prognose.csv]
+(txt, utf8, embedded labels, delimiter is ';');
+
+// Sigtelser og Prognose har egne feltnavne (S_, P_), så Qlik ikke laver syntetiske nøgler.
+
+// Kalender ud fra kvartalerne, så diagrammer kan vælge år og kvartal.
+Kalender:
+LOAD DISTINCT
+    KvartalStart,
+    Year(KvartalStart)                    AS Aar_K,
+    'K' & Ceil(Month(KvartalStart) / 3)   AS KvartalNr
+RESIDENT Anmeldelser;
+
+// Nøgletal (lægges som master measures):
+//   Anmeldelser i kredsen:   Sum({<IKreds={1}, TypeKode={'TOT'}>} Anmeldelser)
+//   Seneste 4 kvartaler:     Sum({<IKreds={1}, TypeKode={'TOT'}, KvartalStart={">=$(=AddMonths(Max(KvartalStart),-9))"}>} Anmeldelser)
+//   Sigtelsesprocent:        Sum({<S_OmraadeKode={'KREDS'}, S_TypeKode={'1'}>} MedSigtelse) / Sum({<S_OmraadeKode={'KREDS'}, S_TypeKode={'1'}>} AnmeldtAar)
